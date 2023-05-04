@@ -12,7 +12,7 @@ tags:
   - GenerativeArt
 ogImage: "/sites/default/files/inline-images/variety_texture_1_600.jpg"
 description:
-  OpenAI Scholars Final Project - Training on Art Composition Attributes to Augment CycleGAN Art Generation
+  OpenAI Scholars Final Project
 ---
 **Abstract:** I consider how to influence CycleGAN, image-to-image translation, by using additional constraints from a neural network trained on art composition attributes. I show how I trained the the Art Composition Attributes Network (ACAN) by incorporating domain knowledge based on the rules of art evaluation and the results of applying each art composition attribute to apple2orange image translation. Finally, I show how this network may be used to generate art by applying the CycleGAN + ACAN to one of my paintings.
 
