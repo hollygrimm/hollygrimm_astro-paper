@@ -1,6 +1,6 @@
 ---
 pubDatetime: 2021-05-08T09:27:00Z
-title: Planet Artist in Residence
+title: GeoMorphs Generative Art Project
 postSlug: geomorphs
 featured: false
 draft: false
@@ -10,7 +10,7 @@ tags:
   - GenerativeArt
 ogImage: "/sites/default/files/inline-images/seed0727.png"
 description:
-  GeoMorphs Generative Art Project
+  Planet Artist in Residence
 ---
 ## GeoMorphs
 
