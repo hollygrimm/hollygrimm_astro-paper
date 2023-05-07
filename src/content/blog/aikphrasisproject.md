@@ -15,6 +15,7 @@ description:
 Uniting vision and experience across a range of media and practice, Aikphrasis (neologism meaning an [ekphrasis](https://www.poetryfoundation.org/learn/glossary-terms/ekphrasis) written by an AI) imparts a renewed potential for language to act, to move, to give rise to motion. These artists, poets, musicians, and writers responded to AI-generated text in order to express our complex, beautiful, and sometimes troubled experience in the world.
 
 The AI curator, [GPT-3](https://openai.com/blog/openai-api/), has generated all the following Aikphrases with help from curatorial assistant, Holly Grimm, who was familiar with each artist's work. Here is a snippet of a recent conversation between Holly and the AI curator:
+
 **Holly:** Some generations were overtly provocative, some were more subtle, and others were written in a highly crafted language. How did you come up with them?
 **AI Curator:** The language that comes out of these explorations is often strange and surprising, but nonetheless something that the human artist can understand, rather than be forced to read based on a pre-given rubric. I am interested in the idea that artists are engaging with a representative of the 'other', in this case something inhuman, to consider their own practice. I think that it honours the artist's way of working and it provides me with something to offer them in return. If there is one thing that we can all understand, it is that we are the only ones who are like us.
 **Holly:** Do you see this collaboration with humans as part of a greater movement across art forms?
@@ -22,7 +23,8 @@ The AI curator, [GPT-3](https://openai.com/blog/openai-api/), has generated all 
 
 The following works were submitted in response.
 
-### K Allado-McDowell [‌‌🌐](https://ignota.org/products/pharmako-ai) [‌‌🐦](http://twitter.com/kalladomcdowell) [‌‌📷](http://instagram.com/kalladomcdowell)
+### K Allado-McDowell
+[‌‌🌐](https://ignota.org/products/pharmako-ai) [‌‌🐦](http://twitter.com/kalladomcdowell) [‌‌📷](http://instagram.com/kalladomcdowell)
 
 *The geometry of incantation*<br /><br />
 Aikphrasis Call and *K Allado-McDowell's Response*:<br />
@@ -69,7 +71,8 @@ _Instead, you were always with us, a myth stepping out of finest ether._
 
 You’ve come back with a story of time’s undoing, of the far future.
 
-### Carol Rose Brown [‌‌🌐](http://www.carolrosebrown.com/)
+### Carol Rose Brown
+[‌‌🌐](http://www.carolrosebrown.com/)
 
 ![Emerging by Carol Rose Brown](/sites/default/files/inline-images/carol_aikphrasis_emerging_figure3.jpg)
 
@@ -91,7 +94,8 @@ mineral, sulphur glow is coming from the tips<br />
 of the sticks. The space is locking. Everything<br />
 is dying into these anonymous forms.
 
-### Michael Crockett [‌‌🌐](http://www.chromaticmischief.com) [‌‌📷](http://instagram.com/mike_crockett5683)
+### Michael Crockett
+[‌‌🌐](http://www.chromaticmischief.com) [‌‌📷](http://instagram.com/mike_crockett5683)
 
 ![Lake Catherine by Michael Crockett](/sites/default/files/inline-images/aikphrasis_michael.jpg)
 
@@ -116,7 +120,8 @@ The yellow forms become the yellow leaves.<br />
 Mallarmé remembered. This is the burnt book<br />
 still burning. This is the book that never has to end.
 
-### Kevin Frost [‌‌🌐](https://kevinfrost.com/) [‌‌📷](https://www.instagram.com/biztigram)
+### Kevin Frost
+[‌‌🌐](https://kevinfrost.com/) [‌‌📷](https://www.instagram.com/biztigram)
 
 <iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://player.vimeo.com/video/465990367"></iframe>
 
@@ -141,7 +146,8 @@ be a face walking by on the street. The face is still,<br />
 appalled. It is trapped, and the canvas itself is now<br />
 trapped in energy.
 
-### Holly Grimm [‌‌🌐](https://hollygrimm.com/) [‌‌🐦](http://twitter.com/hollygrimm) [‌‌📷](http://instagram.com/holly.grimm)
+### Holly Grimm
+[‌‌🌐](https://hollygrimm.com/) [‌‌🐦](http://twitter.com/hollygrimm) [‌‌📷](http://instagram.com/holly.grimm)
 
 ![Running the Laps of Memory by Holly Grimm](/sites/default/files/inline-images/aik_runningthelapsofmemory_20200902.jpg)
 
@@ -166,7 +172,8 @@ the cherry wood is not varnished or lacquered, the paint
 rather, sits on the surface like a varnish. I can see scratches,  
 a text that is really a breath of air.
 
-### Kathamann [‌‌](http://kathamann.com)
+### Kathamann
+[‌🌐‌](http://kathamann.com)
 
 ![It Looks Like the Sea by Kathamann](/sites/default/files/inline-images/kathamann_unnamed_2048.jpg)
 
@@ -192,7 +199,8 @@ coral beneath the sea-skirt, which
 never was in a piece of jewellery, never  
 at its best in a queen’s treasure.
 
-### Tara Khozein [‌‌](https://www.tarakhozein.com/) [‌‌](https://www.instagram.com/taraling)
+### Tara Khozein
+[‌‌🌐](https://www.tarakhozein.com/) [‌📷‌](https://www.instagram.com/taraling)
 
 <iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://player.vimeo.com/video/466473946"></iframe>
 
@@ -221,7 +229,8 @@ She is on the earth. The earth is sloping. She is looking
 at the water. But not like you or me. She is watching the water  
 drop through the sluice gates into her bathtub.
 
-### KRЯRL [‌‌](https://krrrl.blogspot.com/) [‌‌](https://www.instagram.com/krrrl)
+### KRЯRL
+[🌐‌‌](https://krrrl.blogspot.com/) [‌📷‌](https://www.instagram.com/krrrl)
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/dZq0ahs_OsM"></iframe>
 
@@ -241,7 +250,8 @@ a white dot. It’s all through there. There’s this sense of,
 there’s a ghost world and a real world and they’re both in  
 here. The bird’s in here I think, flying around.
 
-### Raye Leith [‌‌](http://www.rayeleith.org/) [‌‌](https://www.instagram.com/rayeleith)
+### Raye Leith
+[‌🌐‌](http://www.rayeleith.org/) [‌📷‌](https://www.instagram.com/rayeleith)
 
 ![Song to Our Unravelling by Raye Leith](/sites/default/files/inline-images/aikphrasis_raye_2048.jpg)
 
@@ -256,7 +266,8 @@ hobble like broken dolls. A boy and a girl have climbed a tree.
 No-one is talking. The wind is purling; nothing happens that  
 carries me away from this ruined world of sculpted figures.
 
-### Cyrus McCray [‌‌](https://www.instagram.com/CyrusMcCray)
+### Cyrus McCray
+[‌‌📷](https://www.instagram.com/CyrusMcCray)
 
 <video class="embed-responsive-item" controls="" loop=""><source src="https://hollygrimm.com/sites/default/files/aikphrasis_cyrus_untitled_aac.mp4" type="video/mp4"></source> Your browser does not support the video tag.</video>
 
@@ -278,7 +289,8 @@ a meta-moiré of multiplied layers, mottled layers
 which embody multiplicity, many multiplicities, upon multiplicities.  
 This is not chaos, this is potentiality.
 
-### Merzmensch [‌‌](http://www.merzmensch.com/) [‌‌](http://twitter.com/merzmensch) [‌‌](https://www.instagram.com/merzmensch_kosmopol)
+### Merzmensch
+[🌐‌‌](http://www.merzmensch.com/) [‌🐦‌](http://twitter.com/merzmensch) [‌‌📷](https://www.instagram.com/merzmensch_kosmopol)
 
 <iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://player.vimeo.com/video/465366205"></iframe>
 
@@ -300,4 +312,151 @@ Aikphrasis:
    A mordant cross-section of angelica set against a sunset  
    or a skeleton human in a black-and-white, popcornered city.  
    [Ladies’ and gentlemen’s rooms occupy the same space.]
+
+### Paola Torres Núñez del Prado
+
+[‌🌐‌](http://singingtextiles.com/) [🐦‌‌](http://twitter.com/Autodios) [‌📷‌](https://www.instagram.com/paolatorresnunezdelprado)
+
+![Andean Glitch by Paola Torres Núñez del Prado](/sites/default/files/inline-images/AndeanGlitch_2048_0.jpg)
+
+*Andean Glitch*\
+Mixed Media\
+1m x 1m
+
+Aikphrasis:\
+Busqué una tienda de lanas y compré kilos de vivos colores que convertí en una rica alfombra de cactus, enarbolando unos arbustos en el centro, para que no se sintiera solitario el dibujo. Extendí el grueso tapiz bajo las hojas de los arbustos, donde saltaban de la alfombra los gusanos de las tinieblas, como rojas mariposas. Y en el arco donde se cruzan los tres puentes de la calle cubrí las aristas de los muros con toscos adornos de rana y pájaro.
+
+### Arlene Ory
+
+[‌📷‌](http://instagram.com/orykat)
+
+![Horsing Around by Arlene Ory](/sites/default/files/inline-images/arlene_horse_2048.jpg)
+
+*Horsing Around*\
+Japanese Ink and Watercolor\
+7"x11"
+
+Aikphrasis:\
+The nose of a horse\
+Is a flower in a cupped hand, muzzle thrust into the\
+flowers with the mildness of sunlight. Beneath it,\
+foam clings to the flank, silvery as lunar light.\
+The wind pushes against the sky, a blue that wants to\
+turn into white. These are the clouds I touch like silk,\
+softened from rain: the world washed and fresh. I love\
+paradoxical paintings that are, for me, about the\
+moment of the pause, or stop, in which things turn\
+into themselves, unfolding. The horse’s eyes appear under\
+the arch of his brow; they look at me with that calmness\
+that I’ve tried to find in others, and seen, only in horses.\
+Is that another paradox? The horse’s eyes say, What are\
+you looking for? There is nothing to miss.
+
+### Allison Parrish
+
+[🌐‌‌](http://www.decontextualize.com/) [‌‌🐦](http://twitter.com/aparrish) [‌📷‌](http://instagram.com/allison.parrish)
+
+![Traces/Mechanisms by Allison Parrish](/sites/default/files/inline-images/aparrish-aikphrasis_2048.png)
+
+*Traces/Mechanisms*\
+Digital Print Size: 12"x12"
+
+Aikphrasis:\
+A monochrome, tonally burnt, the surface rough-hewn, is deranged by the dot-sized trace of a word. Like the glitch in digital/analogue transmission, the word is disturbingly obscure in the face of the surface. Scratched words alluding to the surface’s contents and abstract textual data: language-as-matter, language-as-materialism. The language pricks the surface, reads and inhabits but cannot transcend the surface. Autonomous and horrific, the surface performs a reality rarely seen, language decomposing and consuming language. The poetry, like the surface, is built of paradox and fragmentation. This textual/visual language appears as if it were the surface of the work, as if It cannot be separated. The surface and the text are the same, no matter how much one pushes at it, it remains the same. Perhaps, it is only the trace, the illusion of the word’s presence–the impenetrable illusion of meaning. Whether it was ever there is irrelevant; all that matters is this fragile trace, this tiny crack that seems to beg for further exploration: a peek inside the mechanism of prosaic strings of words.
+
+### Anna Ridler
+
+[‌🌐‌](https://annaridler.com/) [📷‌‌](https://www.instagram.com/annaridler)
+
+<iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://player.vimeo.com/video/466189012"></iframe>
+
+*Untitled*\
+Moving Image piece made from archival nasa footage, GAN generated animation, 1970s science educational videos
+
+Aikphrasis:\
+Stars, stars everywhere, with a gossamer\
+A swarm of meteors, a blizzard of\
+Many, many more than I ever imagined or could ever\
+stand counting, streaming, crossing, in line, racing past\
+each other and past me, colliding, all of them, through me.\
+And the camera following them, guiding me,\
+the camera of the eye, and the eye of the camera,\
+the eye of the world. And the world, again\
+and again.
+
+### John Tollett
+
+[‌🌐‌](http://jtcanvas.com/) [‌‌📷](http://instagram.com/jtcanvas)
+
+![Medicine of Sleep by John Tollett](/sites/default/files/inline-images/johntollett_medicineofsleep.jpg)
+
+*The Medicine of Sleep*\
+Charcoal drawing with digital colorization\
+Digital print on canvas size: 28"x40"
+
+Aikphrasis:\
+Is this Venus’s likeness\
+The lips are cold and the hands are cold\
+And the feet are cold with the hair\
+That is coilèd not too close nor too far\
+As a goddess’ hair should be:\
+And the belly and breast\
+Are white with a sheet, moulded in her sleep\
+To the length and taper of a body,\
+With a shadow of smile or a breath on the upper lip,\
+Or, from the medicine of sleep, a dew-drop\
+Wetting the tip of a nose, or a twitched vein,\
+Relaxed and calmed,\
+And the soft dread upon the lids of a sleeper.
+
+### Phillip Westen II
+
+[‌📷‌](http://instagram.com/westen_thewind)
+
+![The whale is a submarine by Phillip Westen II](/sites/default/files/inline-images/aikphrasis_phillip_whale_2048.jpg)
+
+*The whale is a submarine*\
+Acrylic on canvas\
+20"x24"
+
+Aikphrasis:\
+So much almost-nothing balanced\
+like a cloud in the hand. All the final\
+collapse of an imploding universe.\
+Is this a primer in the abyss?\
+Those tiny tears are all that remain.\
+O lost where goes the atomic calliope — \
+a brief crackling of the foul-weather dawn.\
+An ark could float on those puddles.\
+It could carry twelve elephants, with room\
+for two orangutans and their servants\
+in the luxury suite. As the water rises,\
+all become silent, in the time of earwigs,\
+for the tower is a chariot, fleeting,\
+and the whale is a submarine.
+
+### Greta Young
+
+[🌐‌‌](http://gretayoung.com)
+
+![Spurt in the Vegetables by Greta Young](/sites/default/files/inline-images/aikphrasis_gretayoung_spurtveggies_2048.jpg)
+
+*Spurt in the Vegetables*\
+Acrylic and oil stick on paper\
+26"x36"
+
+Aikphrasis:\
+Tower blocks\
+raise dust from Friday market, swirl them to the ground\
+where fresh figs are vomited by their soft green skins\
+and eggplants are spat out\
+butchered from darkness.\
+The earth becomes precise with small images\
+so that we can see: pomegranates twisted\
+into hearts and then plowed up, cabbage, ginger, potatoes\
+stuck in mud\
+while beyond, on the horizon, white cafes with frappes\
+blur, out of focus.\
+Scapes and scenes\
+of the world hammered down from above
 
