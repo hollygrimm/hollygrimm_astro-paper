@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2020-01-17T09:19:00Z
+pubDatetime: 2020-11-17T09:19:00Z
 title: GPT-3 Musings
 postSlug: gpt3musings
 featured: false
