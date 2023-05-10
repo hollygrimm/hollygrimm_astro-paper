@@ -6,24 +6,10 @@
 - [ ] Search for all hollygrimm.com links and convert large files to docs.hollygrimm.com
 - [ ] Add images to home page instead of just text links
 
-blog:
-- [ ] syllabus_rl
-- [ ] aikphrasisproject
-- [ ] wavenet_plath
-- [ ] ecofriendlypainting
-- [ ] notes_pdw_2014
-
-
-- [ ] bio
-- [ ] software_cv
-
 - [ ] Paintings
 - [ ] Life Drawings
 - [ ] AI Art (subtle bodies (done) + power surge etc)
 - [ ] Plein Air
-
-
-
 
 # original readme below:
 
