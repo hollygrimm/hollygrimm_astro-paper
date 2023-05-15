@@ -6,11 +6,6 @@
 - [ ] Search for all hollygrimm.com links and convert large files to docs.hollygrimm.com
 - [ ] Add images to home page instead of just text links
 
-- [ ] Paintings
-- [ ] Life Drawings
-- [ ] AI Art (subtle bodies (done) + power surge etc)
-- [ ] Plein Air
-
 # original readme below:
 
 
