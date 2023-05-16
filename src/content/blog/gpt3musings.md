@@ -71,4 +71,4 @@ No, but yes. My mind has been altered by GPT-3 outputs.
 
 ### A short discussion with GPT-3
 
-<video controls src="https://hollygrimm.com/sites/default/files/gpt-3galaxy.mp4"></video>
+<video controls src="https://arweave.net/xP4xuyOT29sTFu4Exec-M4_RILKdUML0_akH1t_M-Lc"></video>

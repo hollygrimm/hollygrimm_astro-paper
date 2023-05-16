@@ -269,7 +269,7 @@ carries me away from this ruined world of sculpted figures.
 ### Cyrus McCray
 [‌‌📷](https://www.instagram.com/CyrusMcCray)
 
-<video class="embed-responsive-item" controls="" loop=""><source src="https://hollygrimm.com/sites/default/files/aikphrasis_cyrus_untitled_aac.mp4" type="video/mp4"></source> Your browser does not support the video tag.</video>
+<video class="embed-responsive-item" controls="" loop=""><source src="https://arweave.net/iKpw2UB97fn3N-eQ4xIvdzoxbSkFRoJ1XbebKpExp-c" type="video/mp4"></source> Your browser does not support the video tag.</video>
 
 *Untitled*  
 Digital Media

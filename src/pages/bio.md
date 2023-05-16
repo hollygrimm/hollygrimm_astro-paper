@@ -134,7 +134,7 @@ Additionally I'm interested in using Machine Learning to create works of art. I'
 
 2015 "Body Language" THE Magazine. April 2015
 
-1993 ["Bringing Together Worlds Apart" (PDF)](http://hollygrimm.com/sites/hollygrimm.com/files/article_1993_windsofchange.pdf) Winds of Change
+1993 ["Bringing Together Worlds Apart" (PDF)](http://arweave.net/_9fqENRFdq2Qwh4efzT7dyK49gpDaiICj79zV3ZeJBA) Winds of Change
 
 **Awards and Honors**
 

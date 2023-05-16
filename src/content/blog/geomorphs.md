@@ -77,7 +77,7 @@ And the chroma:
 Here is a sample of what was generated:
 
 <div align="center" class="embed-responsive embed-responsive-16by9">
-<video class="embed-responsive-item" controls="" loop=""><source src="https://hollygrimm.com/sites/default/files/test24_30_10s.mp4" type="video/mp4"></source> Your browser does not support the video tag.</video></div>
+<video class="embed-responsive-item" controls="" loop=""><source src="https://arweave.net/EtFDXnfrD-Z0K4KEXE-UPSlfO5myFrrzvHLM9kXcvMQ" type="video/mp4"></source> Your browser does not support the video tag.</video></div>
 
 I'm still working with Planet on how best to show the work in their space. Stay tuned!
 
