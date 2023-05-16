@@ -26,7 +26,7 @@ For the next two months, I’ll be doing a deep dive into Reinforcement Learning
 
 ![RL Algorithms diagram](https://raw.githubusercontent.com/hollygrimm/markov-decision-processes/master/images/rl_algo_diagram.png)
 
-Here is my [full syllabus](https://hollygrimm.com/syllabus_rl).
+Here is my [full syllabus](/syllabus_rl).
 
 My first week ([GitHub repo](https://github.com/hollygrimm/markov-decision-processes)) was spent learning Markov decision processes (MDP). At the beginning of this week, I implemented Value Iteration and Policy Iteration on a finite MDP, the FrozenLake environment. It's considered finite because the entire dynamics of the model is defined. Here is an animation of value iteration:
 

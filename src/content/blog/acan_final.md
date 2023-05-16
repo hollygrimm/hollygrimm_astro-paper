@@ -69,7 +69,7 @@ Here are examples from the WikiArt dataset for each color harmony with orange as
 | ------------- | --------- | ------------- | ----------- | ------- | -------- |
 | ![Monochromatic](/sites/default/files/inline-images/monochromatic.png)<br />![Josef Albers Frontal](/sites/default/files/inline-images/Josef%20Albers%20Frontal_2.jpg) | ![Analogous](/sites/default/files/inline-images/analogous.png)<br />![Francisco Goya Bildzyklus](/sites/default/files/inline-images/Francisco%20Goya%20Bildzyklus_0.jpg) | ![Complementary](/sites/default/files/inline-images/complementary.png)<br />![Hiroshige Small Bird on a Branch of Kaidozakura](/sites/default/files/inline-images/Franz%20Richard%20Unterberger%27s%20Procession%20in%20Naples_0.jpg) | ![Split-Complementary](/sites/default/files/inline-images/split-complementary.png)<br />![Hiroshige Small Bird on a Branch of Kaidozakura](/sites/default/files/inline-images/Hiroshige%20Small%20Bird%20on%20a%20Branch%20of%20Kaidozakura_0.jpg) | ![Triadic](/sites/default/files/inline-images/triadic.png)<br />![Triadic](/sites/default/files/inline-images/orange-triadic.jpg) | ![Tetradic](/sites/default/files/inline-images/tetradic.png)<br />![Tetradic](/sites/default/files/inline-images/orange-tetradic.jpg) |
 
-More details about art composition attributes can be found on my [Week 9 blog post](https://hollygrimm.com/gen-art/attributes).
+More details about art composition attributes can be found on my [Week 9 blog post](/gen-art/attributes).
 
 ## 2 Related Work
 
@@ -87,7 +87,7 @@ My deep CNN for learning painting composition attributes is based on the paper, 
 
 ### 3.1 Art Composition Attributes Network (ACAN)
 
-**Code.** I have made my code for this network publicly available here: [https://github.com/hollygrimm/art-composition-cnn](https://github.com/hollygrimm/art-composition-cnn). Details on how I added multiple outputs to a Keras ResNet50 model can be found in my [Week 11 blog post](https://hollygrimm.com/resnet50_multipleoutputs)
+**Code.** I have made my code for this network publicly available here: [https://github.com/hollygrimm/art-composition-cnn](https://github.com/hollygrimm/art-composition-cnn). Details on how I added multiple outputs to a Keras ResNet50 model can be found in my [Week 11 blog post](/resnet50_multipleoutputs)
 
 **Inputs.** Five hundred WikiArt 256x256x3 pixel images labeled with eight attributes. Six of the attributes, *variety of texture*, *variety of shape*, *variety of size*, *variety of color*, *contrast*, and *repetition*, have numerical values between 1 and 10. The other two attributes are *primary color* composed of 13 classes and *color harmony* which has 6 classes.
 
@@ -99,7 +99,7 @@ The sixteen GAP outputs are concatenated and L2 normalization is applied to crea
 
 ![ResNet50 ACAN](/sites/default/files/inline-images/resnet50_acan.png)
 
-More details about how I added Globabl Average Pooling to ResNet50 can be found on my [Week 10 blog post](https://hollygrimm.com/art-resnet50).
+More details about how I added Globabl Average Pooling to ResNet50 can be found on my [Week 10 blog post](/art-resnet50).
 
 **Loss Weights.** I’m training on a total of eight art attributes. The six numerical values use mean squared error to calculate loss, while the two categorical attributes use categorical cross-entropy.
 
@@ -111,7 +111,7 @@ After my initial training, I found that losses from categorical cross-entropy (*
 
 By lowering the categorical weights to .7 and training for 1000 epochs, validation losses on the *repetition* attribute were very good. *Primary color* losses were better than the .5 loss weights, but not as good as the original 1.0 loss weights.
 
-Training loss charts for *repetition* and *primary color* can be found on my [Week 12 blog post](https://hollygrimm.com/resnet50_lossweights).
+Training loss charts for *repetition* and *primary color* can be found on my [Week 12 blog post](/resnet50_lossweights).
 
 ### 3.2 CycleGAN + ACAN
 

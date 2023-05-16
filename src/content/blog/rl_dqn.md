@@ -16,7 +16,7 @@ description:
 
 The first part of this week was spent working on homework 3 for CS294 "Using Q-Learning with convolutional neural networks" [4] for playing Atari games, also known as Deep Q Networks (DQN). ([Source on GitHub](https://github.com/hollygrimm/cs294-homework/tree/master/hw3))
 
-Like last week, training was done on Atari Pong. I was able to improve my +6 score using [Policy Gradients](https://hollygrimm.com/rl_pg) to receive a +20 reward after 5 million games with DQN:
+Like last week, training was done on Atari Pong. I was able to improve my +6 score using [Policy Gradients](/rl_pg) to receive a +20 reward after 5 million games with DQN:
 
 ![Pong 5M 20 rewards](https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw3/charts/pong_5M_rewards20.png)
 
