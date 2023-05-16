@@ -4,7 +4,6 @@
 - [ ] Add a favicon
 - [ ] Add a logo
 - [ ] Check for initial image on all blog posts
-- [ ] Links from OpenSea back to Geomorphs pages geomorphs/[1-4]
 - [ ] Add images to home page instead of just text links
 
 # original readme below:
