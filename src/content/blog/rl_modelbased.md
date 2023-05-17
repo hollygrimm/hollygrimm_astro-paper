@@ -8,6 +8,7 @@ tags:
   - OpenAI
   - ReinforcementLearning
   - Model-based-RL
+ogImage: "https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw4/assets/halfcheetah_averagereturn_n15.png"
 description:
   Model-based RL
 ---

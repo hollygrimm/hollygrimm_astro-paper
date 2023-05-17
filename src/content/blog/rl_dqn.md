@@ -9,6 +9,7 @@ tags:
   - ReinforcementLearning
   - Pong
   - SonicTheHedgehog
+ogImage: "https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw3/charts/pong_5M_rewards20.png" 
 description:
   Deep Q Networks and Rainbow Algorithm
 ---

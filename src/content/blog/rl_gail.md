@@ -8,6 +8,7 @@ tags:
   - OpenAI
   - ReinforcementLearning
   - GAIL
+ogImage: "https://raw.githubusercontent.com/hollygrimm/gail-mujoco/master/result/Humanoid-unnormalized-deterministic-scores.png"
 description:
   Generative Adversarial Imitation Learning (GAIL)
 ---

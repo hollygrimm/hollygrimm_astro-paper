@@ -10,10 +10,11 @@ tags:
   - NeuralNetwork
   - Audio
   - Audacity
+ogImage: "/sites/default/files/styles/large/public/2018-04/sylvia_plath_generated_waveform_0.png"
 description:
   Synthesizing Sylvia Plath's voice
 ---
-![Sylvia Plath Generated Waveform](/sites/default/files/styles/large/public/2018-04/sylvia_plath_generated_waveform_0.png?itok=6e9T7Axg)
+![Sylvia Plath Generated Waveform](/sites/default/files/styles/large/public/2018-04/sylvia_plath_generated_waveform_0.png)
 
 Using WaveNet, a deep neural network, I was able to synthesize a ten second clip of Sylvia Plath's voice. WaveNet was trained without text sequences, so the generated speech is gibberish:
 

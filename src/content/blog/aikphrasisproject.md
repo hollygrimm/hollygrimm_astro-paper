@@ -7,10 +7,13 @@ draft: false
 tags:
   - GPT
   - GenerativeArt
+ogImage: "/sites/default/files/inline-images/aikphrasis_2048.jpg"
 description:
   Artists, poets, musicians, and writers respond to AI-generated text
 ---
 ## Artists, poets, musicians, and writers respond to AI-generated text
+
+![Aikphrasis](/sites/default/files/inline-images/aikphrasis_2048.jpg)
 
 Uniting vision and experience across a range of media and practice, Aikphrasis (neologism meaning an [ekphrasis](https://www.poetryfoundation.org/learn/glossary-terms/ekphrasis) written by an AI) imparts a renewed potential for language to act, to move, to give rise to motion. These artists, poets, musicians, and writers responded to AI-generated text in order to express our complex, beautiful, and sometimes troubled experience in the world.
 
@@ -123,7 +126,7 @@ still burning. This is the book that never has to end.
 ### Kevin Frost
 [‌‌🌐](https://kevinfrost.com/) [‌‌📷](https://www.instagram.com/biztigram)
 
-<iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://player.vimeo.com/video/465990367"></iframe>
+<iframe width="100%" height="400" allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://player.vimeo.com/video/465990367"></iframe>
 
 *I’ve Never Seen a Turtle.*<br />
 [Digital Video](https://kevinfrost.com/video/turtle/)<br /><br />
@@ -202,7 +205,7 @@ at its best in a queen’s treasure.
 ### Tara Khozein
 [‌‌🌐](https://www.tarakhozein.com/) [‌📷‌](https://www.instagram.com/taraling)
 
-<iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://player.vimeo.com/video/466473946"></iframe>
+<iframe width="100%" height="500" allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://player.vimeo.com/video/466473946"></iframe>
 
 *She is patient or panning for gold.*  
 Voice-Theater (Video Documentation)  
@@ -232,7 +235,7 @@ drop through the sluice gates into her bathtub.
 ### KRЯRL
 [🌐‌‌](https://krrrl.blogspot.com/) [‌📷‌](https://www.instagram.com/krrrl)
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/dZq0ahs_OsM"></iframe>
+<iframe width="100%" height="400" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/dZq0ahs_OsM"></iframe>
 
 *aiK*RЯR*Lsis*  
 [Pencil, warped by AI](https://krrrl.blogspot.com/2020/10/aikrrlsis.html)
@@ -269,7 +272,7 @@ carries me away from this ruined world of sculpted figures.
 ### Cyrus McCray
 [‌‌📷](https://www.instagram.com/CyrusMcCray)
 
-<video class="embed-responsive-item" controls="" loop=""><source src="https://arweave.net/iKpw2UB97fn3N-eQ4xIvdzoxbSkFRoJ1XbebKpExp-c" type="video/mp4"></source> Your browser does not support the video tag.</video>
+<video width="100%" height="400" class="embed-responsive-item" controls="" loop=""><source src="https://arweave.net/iKpw2UB97fn3N-eQ4xIvdzoxbSkFRoJ1XbebKpExp-c" type="video/mp4"></source> Your browser does not support the video tag.</video>
 
 *Untitled*  
 Digital Media
@@ -292,7 +295,7 @@ This is not chaos, this is potentiality.
 ### Merzmensch
 [🌐‌‌](http://www.merzmensch.com/) [‌🐦‌](http://twitter.com/merzmensch) [‌‌📷](https://www.instagram.com/merzmensch_kosmopol)
 
-<iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://player.vimeo.com/video/465366205"></iframe>
+<iframe width="100%" height="400" allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://player.vimeo.com/video/465366205"></iframe>
 
 *Merzphrasis*  
 [AI-Generated Video](https://medium.com/merzazine/merzphrasis-43187b0da70a?source=friends_link&amp;sk=4ea8caa435b1431b32e66b2d9414317c)
@@ -368,7 +371,7 @@ A monochrome, tonally burnt, the surface rough-hewn, is deranged by the dot-size
 
 [‌🌐‌](https://annaridler.com/) [📷‌‌](https://www.instagram.com/annaridler)
 
-<iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://player.vimeo.com/video/466189012"></iframe>
+<iframe width="100%" height="400" allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://player.vimeo.com/video/466189012"></iframe>
 
 *Untitled*\
 Moving Image piece made from archival nasa footage, GAN generated animation, 1970s science educational videos

@@ -9,6 +9,7 @@ tags:
   - ReinforcementLearning
   - ImitationLearning
   - Mujoco
+ogImage: "https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw1/images/walker_val_loss.png" 
 description:
   Imitation Learning and Mujoco
 ---

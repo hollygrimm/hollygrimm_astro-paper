@@ -27,6 +27,7 @@ module.exports = {
         base: withOpacity("--color-text-base"),
         accent: withOpacity("--color-accent"),
         inverted: withOpacity("--color-fill"),
+        "accent-muted": withOpacity("--color-accent-muted"),
       },
     },
     backgroundColor: {

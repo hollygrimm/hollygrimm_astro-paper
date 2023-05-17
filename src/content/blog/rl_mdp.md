@@ -7,12 +7,13 @@ draft: false
 tags:
   - OpenAI
   - ReinforcementLearning
+ogImage: "/sites/default/files/styles/large/public/2018-06/mdp_brain_500.png"
 description:
   Reinforcement Learning - Markov Decision Processes
 ---
 ## Reinforcement Learning - Markov Decision Processes
 
-![Interaction in a Markov Decision Process](/sites/default/files/styles/large/public/2018-06/mdp_brain_500.png?itok=haXXN-yg)
+![Interaction in a Markov Decision Process](/sites/default/files/styles/large/public/2018-06/mdp_brain_500.png)
 
 I’m happy to be a member of the inaugural group of OpenAI Scholars. Every Friday for the next three months, I'll be writing a blog post about my Machine Learning studies, struggles, and successes.
 

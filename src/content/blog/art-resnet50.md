@@ -9,6 +9,7 @@ tags:
   - ResNet50
   - GenerativeArt
   - ArtCompositionAttributesNetwork
+ogImage: "/sites/default/files/inline-images/resnet50block_merge.png"
 description:
   Finetuning ResNet50 for Art Composition Attributes
 ---

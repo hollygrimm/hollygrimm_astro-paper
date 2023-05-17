@@ -1,11 +1,5 @@
 # Holly Grimm
 
-## TODO
-- [ ] Add a favicon
-- [ ] Add a logo
-- [ ] Check for initial image on all blog posts
-- [ ] Add images to home page instead of just text links
-
 # original readme below:
 
 

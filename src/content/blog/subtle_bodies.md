@@ -11,7 +11,7 @@ ogImage: "/sites/default/files/styles/large/public/2019-09/untitled_green_2014-0
 description:
   Translation from landscape paintings to figurative watercolors using U-GAT-IT
 ---
-## _Translation from landscape paintings to figurative watercolors using U-GAT-IT_
+## Translation from landscape paintings to figurative watercolors using U-GAT-IT
 
 "Subtle Bodies" is a series of AI-generated artworks that mimic my figurative watercolors. The figures were generated from my landscape paintings using image-to-image translation, thus finding the subtle body within the landscape.
 

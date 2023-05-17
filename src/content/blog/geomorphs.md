@@ -14,6 +14,8 @@ description:
 ---
 ## GeoMorphs
 
+![GeoMorph](/sites/default/files/inline-images/seed0727.png)
+
 GeoMorphs is a generative art project built during a [2021 Artist in Residence at Planet [medium.com]](https://medium.com/planet-stories/meet-planets-first-artist-in-residence-of-2021-holly-grimm-ab227ebdc2dd). It's a generative adversarial network (GAN) trained on [Planet [planet.com]](https://planet.com) satellite images.
 
 My residency started with some amazing virtual interactions with the scientists and technologists at Planet. Dr. Tanya Harrison and I talked about possible art projects and her work with Mars missions. I chatted with Rob Simmon on how to take data that is difficult to understand and present it in a form that an audience can appreciate. Andrew Zolli and I discussed deforestation, planetary ethics, land stewardship, and indigenous guardianship. Ash Hoover showed me how to use machine learning to analyze floods, deforestation, wildfires, methane, ships, and building construction. Işıl Demir talked about mission control, smart automation, and ground stations. Sara Safavi showed me how to search and access Planet imagery. Orestis Herodotou talked about machine learning and art, including a work he showed at Gray Area. Dr. Ariel Zajdband showed me how to calculate different vegetation indices for determining crop health, estimating production, and precision agriculture in tropical areas. I appreciate that so many Planeteers were able to take time out of their busy schedule to meet with me.

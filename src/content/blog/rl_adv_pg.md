@@ -10,6 +10,7 @@ tags:
   - PolicyGradients
   - TRPO
   - A2C
+ogImage: "https://raw.githubusercontent.com/hollygrimm/policy-optimization-algos/master/assets/a2c-breakout.png" 
 description:
   Natural Policy Gradients, TRPO, A2C
 ---

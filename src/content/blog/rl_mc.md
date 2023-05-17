@@ -9,12 +9,13 @@ tags:
   - ReinforcementLearning
   - Blackjack
   - MonteCarloMethods
+ogImage: "/sites/default/files/styles/large/public/2018-06/blackjack_montecarlo_color.png"
 description:
   Reinforcement Learning - Monte Carlo Methods and OpenAI Gym's Blackjack
 ---
 ## Reinforcement Learning - Monte Carlo Methods and OpenAI Gym's Blackjack
 
-![Blackjack Monte Carlo Methods](/sites/default/files/styles/large/public/2018-06/blackjack_montecarlo_color.png?itok=2OeRIEF9)
+![Blackjack Monte Carlo Methods](/sites/default/files/styles/large/public/2018-06/blackjack_montecarlo_color.png)
 
 This week I learned about the Reinforcement Learning algorithms called Monte Carlo (MC) methods. Most of my instruction came from Chapter 5 of [_Reinforcement Learning: An Introduction_](http://incompleteideas.net/book/the-book-2nd.html) by Sutton and Barto.
 

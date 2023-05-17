@@ -11,6 +11,7 @@ tags:
   - Mujoco
   - Atari
   - Pong
+ogImage: "https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw2/charts/avg_return_cartpole_lgbatch_5000.png"  
 description:
   Policy Gradients on Atari Pong and Mujoco
 ---
