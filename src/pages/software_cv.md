@@ -2,11 +2,12 @@
 layout: ../layouts/CVLayout.astro
 title: "CV"
 ---
-**Objective**
+## Objective
 
-Software Engineer with 25+ years of development experience. Building at the intersection of Climate, Blockchain, and Machine Learning. Core leader of dMeter decentralized MRV, member of Celo Network's Climate Collective, co-leader of KERNEL's Regeneration Guild and an active contributor to five decentralized autonomous organizations (DAOs): ReFi DAO for regenerative climate projects, pr1s0n art for inmate art, Algovera AI for decentralized AI, nfDAO for funding NFT projects, Meta Gamma Delta for supporting projects by women, and as a peer mentor for Gitcoin KERNEL. Additionally, she is a board president of Natives in Tech.
+Software Engineer with 25+ years of development experience. She has built a variety of machine learning models for image, music, voice, and text generation, currently building at the intersection of
+climate, blockchain, and machine learning. She is a member of the Active Inference Institute's Scientific Advisory Board, member of Celo Network's Climate Collective, co-leader of KERNEL's Regeneration Guild and an active contributor to five decentralized autonomous organizations (DAOs): ReFi DAO for regenerative climate projects, pr1s0n art for inmate art, Algovera AI for decentralized AI, nfDAO for funding NFT projects, Meta Gamma Delta for supporting projects by women, and as a peer mentor for Gitcoin KERNEL. Additionally, she is a board president of Natives in Tech.
 
-**Education**
+## Education
 
 1995 "B.S. Engineering, Human/Computer Interface Design" Stanford University
 
@@ -18,7 +19,13 @@ Software Engineer with 25+ years of development experience. Building at the inte
 
 2021 [KERNEL](https://kernel.community/) Block II Fellow
 
-**Talks and Poster Presentations**
+2023 "Mathematics for Machine Learning" Coursera (three courses)
+
+2023 Starknet Basecamp, Cohort 4
+
+2023 Active Inference Textbook Group, Cohort 4
+
+## Talks and Poster Presentations
 
 2020 "Indigenous Machine Learning". Natives in Technology Conference
 
@@ -32,10 +39,9 @@ Software Engineer with 25+ years of development experience. Building at the inte
 [http://www.aiartonline.com/art/holly-grimm/](http://www.aiartonline.com/art/holly-grimm/)
 [https://arxiv.org/abs/1812.07710](https://arxiv.org/abs/1812.07710)
 
-**Employment**
+## Employment
 
-Astral Protocol, remote
-2021-2022
+### Astral Protocol, remote 2021 – 2022
 Project Manager and Developer, Kolektivo Curaçao
 * Geospatial Contracts and Tools for Web3 GeoNFTs
 * Solidity, Typescript, QGIS, IPFS, Leaflet
@@ -48,58 +54,69 @@ Project Manager and Developer, dClimate
 * Spatial Data Registry for weather data
 * Juno/Cosmos, Rust, MongoDB
 
-Adecco, remote
-2019-2020
+### Sustia LLC, remote 2020 – 2021
+
+Project Manager and Developer, Questionator, Humanity and AI Conference
+* GPT-3 Summarizer and Question Generator
+* Real-time Speech to Text
+* Angular, Python, Express/MongoDB
+      
+Project Manager and Developer, Imagen
+* GPT-2 Fine-tuning on poetry dataset
+* AWS, Kubernetes, Python, Angular
+
+### Adecco, remote 2019 – 2020
+
 Creative Technologist at Google Artists + Machine Intelligence
 * Worked with five artists to apply machine learning in their art practice
 * Trained the following models: StyleGAN2, GPT-2, BERT, Tacotron2, Parallel WaveGAN
 * Python, Tensorflow, Tensorflow JS, Angular
 
-OpenAI, San Francisco, CA, USA
-2018
+### OpenAI, San Francisco, CA, 2018
+
 OpenAI Scholar
 * [Deep-dive into Reinforcement Learning](/tags/reinforcementlearning)
 * [AI art generator using art composition attributes neural network and CycleGAN](/acan_final)
 * Python, Tensorflow, Keras, OpenAI Gym, MuJoCo, AWS EC2 and S3
 
-(via Sustia LLC) Healthy Native Communities, Shiprock, NM, USA
-2003 – 2017
+### (via Sustia LLC) Healthy Native Communities, Shiprock, NM 2003 – 2017
+
 Software Engineer
 * Developed a custom web application for Native American health coordinators to share updates on health activities. English and French language support
 * Java, Spring Framework, MySQL, Javascript, Solr Search, Selenium Testing, Google Maps
 * First version in 2003, completed major upgrades in 2005 and 2008
 
-(via Sustia LLC) OpenMake Software, Cerrillos, NM, USA
-2012 – 2013
+### (via Sustia LLC) OpenMake Software, Cerrillos, NM 2012 – 2013
+
 Software Engineer
 * Distributed software build and workflow management system implementing remote command execution and event correlation
 * Java, Spring Framework, Spring Integration, RabbitMQ, Oracle, AngularJS
 
-(via Sustia LLC) AmbientId, Gig Harbor, WA, USA
-2010 – 2012
+### (via Sustia LLC) AmbientId, Gig Harbor, WA 2010 – 2012
+
 Software Engineer
 * Medical clinic data collection and graphical charting/reporting system
 * Java, Spring Framework, MySQL, Javascript, JMS/Spring Integration
 
-Youtility Software, Vancouver, BC, CA
-2006 – 2008
+### Youtility Software, Vancouver, BC 2006 – 2008
+
 Software Engineer
 * A custom web application to support OpenID requests and user profile management for a Secure OpenID provider
 * Java, Spring Framework, MySQL, Javascript, Web Services
 
-Homeseekers, Albuquerque, NM, USA
-2000 – 2001
+### Homeseekers, Albuquerque, NM 2000 – 2001
+
 Software Engineer
 * Developed a commercial web-database application for the on-line delivery of real estate information
 * Java, MS SQL Server
 
-Photon Research, Albuquerque, NM, USA
-1998 – 2000
+### Photon Research, Albuquerque, NM 1998 – 2000
+
 Software Engineer
 * Developed a commercial web-database application for the automated warehousing and on-line delivery of remotely sensed geospatial imagery
 * Java, C++, MS SQL Server
 
-**Articles**
+## Articles
 
 2019 [The Soul of the New Machines](https://vasari21.com/the-soul-of-the-new-machines/) Vasari21
 
