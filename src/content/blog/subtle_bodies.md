@@ -8,9 +8,9 @@ tags:
   - GAN
   - GenerativeArt
 ogImage: "/sites/default/files/styles/large/public/2019-09/untitled_green_2014-01-25_305001.jpg"
-description:
-  Translation from landscape paintings to figurative watercolors using U-GAT-IT
+description: Translation from landscape paintings to figurative watercolors using U-GAT-IT
 ---
+
 ## Translation from landscape paintings to figurative watercolors using U-GAT-IT
 
 "Subtle Bodies" is a series of AI-generated artworks that mimic my figurative watercolors. The figures were generated from my landscape paintings using image-to-image translation, thus finding the subtle body within the landscape.
@@ -25,10 +25,10 @@ AI Disclaimer: Although these images were created by an AI, the above text was w
 
 Here are six samples of input paintings and output figurative watercolors:
 
-|Magma Plume|Jungle Theorem|Loretto Morning|Rose Garden|SF Train Station|Perseus Rumble|
-|--- |--- |--- |--- |--- |--- |
-|![magma plume](/sites/default/files/inline-images/painting_2017-08-12_magma_plume_768.jpg)|![Jungle Theorem](/sites/default/files/inline-images/pa_2016-11-19_jungletheorem.jpg)|![Loretto Morning](/sites/default/files/inline-images/pa_2016-05-13_loretto_morning.jpg)|![Rose Garden](/sites/default/files/inline-images/pa_2017-06-27_rosegarden.jpg)|![SF Train Station](/sites/default/files/inline-images/pa_2016-06-04_sf_train_station.jpg)|![Perseus Rumble](/sites/default/files/inline-images/painting_2017-07-25_Perseus_Rumble.jpg)|
-|![magma plume 305001](/sites/default/files/styles/large/public/2019-09/painting_2017-08-12_magma_plume_305001.jpg)|![power surge 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-11-19_jungletheorem_305001.jpg)|![power surge 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-05-13_loretto_morning_305001.jpg)|![power surge 305001](/sites/default/files/styles/large/public/2019-09/pa_2017-06-27_rosegarden_305001.jpg)|![power surge 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-06-04_sf_train_station_305001.jpg)|![perseus rumble 305001](/sites/default/files/styles/large/public/2019-09/painting_2017-07-25_Perseus_Rumble_305001.jpg)|
+| Magma Plume&nbsp;&nbsp;                                                                                            | Jungle Theorem                                                                                                 | Loretto Morning                                                                                                  | Rose Garden&nbsp;                                                                                           | SF Train Station                                                                                                  | Perseus Rumble                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| ![magma plume](/sites/default/files/inline-images/painting_2017-08-12_magma_plume_768.jpg)                         | ![Jungle Theorem](/sites/default/files/inline-images/pa_2016-11-19_jungletheorem.jpg)                          | ![Loretto Morning](/sites/default/files/inline-images/pa_2016-05-13_loretto_morning.jpg)                         | ![Rose Garden](/sites/default/files/inline-images/pa_2017-06-27_rosegarden.jpg)                             | ![SF Train Station](/sites/default/files/inline-images/pa_2016-06-04_sf_train_station.jpg)                        | ![Perseus Rumble](/sites/default/files/inline-images/painting_2017-07-25_Perseus_Rumble.jpg)                             |
+| ![magma plume 305001](/sites/default/files/styles/large/public/2019-09/painting_2017-08-12_magma_plume_305001.jpg) | ![power surge 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-11-19_jungletheorem_305001.jpg) | ![power surge 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-05-13_loretto_morning_305001.jpg) | ![power surge 305001](/sites/default/files/styles/large/public/2019-09/pa_2017-06-27_rosegarden_305001.jpg) | ![power surge 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-06-04_sf_train_station_305001.jpg) | ![perseus rumble 305001](/sites/default/files/styles/large/public/2019-09/painting_2017-07-25_Perseus_Rumble_305001.jpg) |
 
 Full results:
 

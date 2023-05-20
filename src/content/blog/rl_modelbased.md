@@ -8,11 +8,13 @@ tags:
   - OpenAI
   - ReinforcementLearning
   - Model-based-RL
-ogImage: "https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw4/assets/halfcheetah_averagereturn_n15.png"
-description:
-  Model-based RL
+ogImage: "/sites/default/files/styles/large/public/2018-07/halfcheetah_0.png"
+description: Model-based RL
 ---
+
 ## Model-based RL
+
+![Half Cheetah](/sites/default/files/styles/large/public/2018-07/halfcheetah_0.png)
 
 This week I learned about Model-based RL where a model of the dynamics of the environment is used to make predictions. Previous algorithms that I’ve studied have been model-free where a policy or value function is being optimized. Instead, Model-based RL predicts what the environment looks like, and it can create a model that is independent of the task you are trying to achieve. The dynamics model can be implemented using a Gaussian Process, a Neural Network, or other methods.
 
@@ -36,7 +38,7 @@ Final Video:
 
 ## Modified HalfCheetahEnv
 
-The homework code included a modified version of HalfCheetah, but it wasn’t compatible with OpenAI Gym’s wrappers. I wanted to use wrappers.Monitor to record video, so I had to rewrite the code to define a custom environment. I extended the HalfCheetahEnv, modified the frame skip from 5 to 1, and added an additional observation, self.get_body_com("torso").flat, to the _get_obs function:
+The homework code included a modified version of HalfCheetah, but it wasn’t compatible with OpenAI Gym’s wrappers. I wanted to use wrappers.Monitor to record video, so I had to rewrite the code to define a custom environment. I extended the HalfCheetahEnv, modified the frame skip from 5 to 1, and added an additional observation, self.get_body_com("torso").flat, to the \_get_obs function:
 
 ```
 class HalfCheetahTorsoEnv(HalfCheetahEnv, utils.EzPickle):
@@ -92,10 +94,10 @@ When ten samples are completed with the MPC, the new data is then aggregated int
 
 ## References
 
-1. Anusha Nagabandi et al.  “Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning”. [PDF](https://arxiv.org/abs/1708.02596)
+1. Anusha Nagabandi et al. “Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning”. [PDF](https://arxiv.org/abs/1708.02596)
 2. Chelsea Finn. “Deep RL Bootcamp Core Lecture 9 Model-based RL”. [Video](https://youtu.be/iC2a7M9voYU) | [Slides](https://drive.google.com/open?id=0BxXI_RttTZAhRTBqQmc5R0pGQlE)
-3. Sergey Levine. “CS294 Learning dynamical systems from data”. [Video](https://www.youtube.com/watch?v=yap_g0d7iBQ&amp;amp;list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&amp;amp;index=10&amp;amp;t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_9_model_based_rl.pdf)
-4. Sergey Levine. “CS294 Learning policies by imitating optimal controllers”.  [Video](https://www.youtube.com/watch?v=AwdauFLan7M&amp;amp;list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&amp;amp;index=11&amp;amp;t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_10_imitating_optimal_control.pdf)
-5. Chelsea Finn. “CS294 Advanced model learning and images” [Video](https://www.youtube.com/watch?v=vRkIwM4GktE&amp;amp;list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&amp;amp;index=12&amp;amp;t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/advanced_model_learning.pdf)
-6. Sergey Levine. “CS294 Connection between inference and control” [Video](https://www.youtube.com/watch?v=iOYiPhu5GEk&amp;amp;list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&amp;amp;index=13&amp;amp;t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_11_control_and_inference.pdf)
+3. Sergey Levine. “CS294 Learning dynamical systems from data”. [Video](https://www.youtube.com/watch?v=yap_g0d7iBQ&amp;list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&amp;index=10&amp;t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_9_model_based_rl.pdf)
+4. Sergey Levine. “CS294 Learning policies by imitating optimal controllers”. [Video](https://www.youtube.com/watch?v=AwdauFLan7M&amp;list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&amp;index=11&amp;t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_10_imitating_optimal_control.pdf)
+5. Chelsea Finn. “CS294 Advanced model learning and images” [Video](https://www.youtube.com/watch?v=vRkIwM4GktE&amp;list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&amp;index=12&amp;t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/advanced_model_learning.pdf)
+6. Sergey Levine. “CS294 Connection between inference and control” [Video](https://www.youtube.com/watch?v=iOYiPhu5GEk&amp;list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&amp;index=13&amp;t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_11_control_and_inference.pdf)
 7. CS294 [Model Based RL Project](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/hw4.pdf)

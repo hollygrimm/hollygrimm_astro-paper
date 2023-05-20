@@ -11,11 +11,13 @@ tags:
   - Mujoco
   - Atari
   - Pong
-ogImage: "https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw2/charts/avg_return_cartpole_lgbatch_5000.png"  
-description:
-  Policy Gradients on Atari Pong and Mujoco
+ogImage: "/sites/default/files/styles/large/public/2018-07/pong_frame.png"
+description: Policy Gradients on Atari Pong and Mujoco
 ---
+
 ## Policy Gradients on Atari Pong and Mujoco
+
+![Pong](/sites/default/files/styles/large/public/2018-07/pong_frame.png)
 
 The first part of my week was spent working on the 2nd homework for CS294, Policy Gradients[1]. Source code: [https://github.com/hollygrimm/cs294-homework/tree/master/hw2](https://github.com/hollygrimm/cs294-homework/tree/master/hw2)
 
@@ -69,7 +71,7 @@ The Adam Optimizer was used for training with a learning rate of .005.
 
 ## CartPole Results
 
-For CartPole, the average return reached close to 200 after about 60 iterations with a large batch size of 5000.  The runs done without normalizing advantages (dna) did slightly better than the ones with normalized advantages (na). Reward-to-go (rtg) converged faster than the no-rtg training.
+For CartPole, the average return reached close to 200 after about 60 iterations with a large batch size of 5000. The runs done without normalizing advantages (dna) did slightly better than the ones with normalized advantages (na). Reward-to-go (rtg) converged faster than the no-rtg training.
 
 ![CartPole Chart Large Batch](https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw2/charts/avg_return_cartpole_lgbatch_5000.png)
 
@@ -93,7 +95,7 @@ Your browser does not support the video tag.
 
 # Pong From Pixels
 
-After completing the homework, I thought I would apply the same algorithm to OpenAI’s implementation of Atari 2600 Pong. Andrej Karpathy has written a blog post on how he used the Policy Gradients algorithm to learn how to play Pong [3] [4].  His implementation had computations that were entirely Numpy-based [5]. [My version](https://github.com/hollygrimm/pongfrompixels) used Tensorflow.
+After completing the homework, I thought I would apply the same algorithm to OpenAI’s implementation of Atari 2600 Pong. Andrej Karpathy has written a blog post on how he used the Policy Gradients algorithm to learn how to play Pong [3] [4]. His implementation had computations that were entirely Numpy-based [5]. [My version](https://github.com/hollygrimm/pongfrompixels) used Tensorflow.
 
 Training for two days on an AWS EC2 p2.xlarge instance resulted in the following rewards. The first chart is the first 300 epochs:
 
@@ -103,7 +105,7 @@ The next chart shows the rewards from epoch number 300 to 2300:
 
 ![Pong Training 300 to 2800 epochs](https://raw.githubusercontent.com/hollygrimm/pongfrompixels/master/images/chart_from300epochstoend.png)
 
-The orange paddle is the hard-coded AI opponent. The green is the agent trained using policy gradients. When the ball goes past the opponent, a reward of +1 is obtained, and if the ball goes past the agent it results in a reward of -1.  A score of -21 happens when the opponent wins every game in an episode, +21 is the result when the trained agent wins all the games. Average human performance is -3 [6], and super human performance is considered +5. My training maxed out with an average reward of +8.
+The orange paddle is the hard-coded AI opponent. The green is the agent trained using policy gradients. When the ball goes past the opponent, a reward of +1 is obtained, and if the ball goes past the agent it results in a reward of -1. A score of -21 happens when the opponent wins every game in an episode, +21 is the result when the trained agent wins all the games. Average human performance is -3 [6], and super human performance is considered +5. My training maxed out with an average reward of +8.
 
 The network is one fully connected layer of 200 units with a ReLU activation. One frame from the Pong Env looks like this:
 
@@ -121,7 +123,7 @@ B&W:
 
 The frame is first cropped to only the playing area (160x160). Then the frame is resized by half (80x80). Finally, the background is set to black, and the ball and paddles are set to white. The pixels are flattened into a (6400 x 1) line of pixels. The previous frame is then subtracted from this frame to train the network on motion between two frames. This difference frame is what is input to the network.
 
-I trained the network to have three output actions: NO-OP (No Operation), UP, and DOWN.  The environment has a certain amount of jitter built in, where a requested action is repeated between 2 to 4 frames [7]. I thought by adding NO-OP, that the agent could pause in a location if needed.
+I trained the network to have three output actions: NO-OP (No Operation), UP, and DOWN. The environment has a certain amount of jitter built in, where a requested action is repeated between 2 to 4 frames [7]. I thought by adding NO-OP, that the agent could pause in a location if needed.
 
 Here is an example game after training reward-to-go, normalizing advantages, gamma as .99, batch size as 10, and learning rate .001, for 2,300 epochs. The agent received an average reward of +8:
 
@@ -151,7 +153,7 @@ I had the following error:
 #include <zlib.h>
 ```
 
-The AWS instance had all the required packages installed, such as cmake and zlib1g-dev, but was still unable to find the zlib.h file. I found this issue: [https://github.com/openai/atari-py/issues/24](https://github.com/openai/atari-py/issues/24)  which shed light on the problem. The default ubuntu user on an EC2 instance can't find the zlib.h file due to permissions. Running the command as root worked:
+The AWS instance had all the required packages installed, such as cmake and zlib1g-dev, but was still unable to find the zlib.h file. I found this issue: [https://github.com/openai/atari-py/issues/24](https://github.com/openai/atari-py/issues/24) which shed light on the problem. The default ubuntu user on an EC2 instance can't find the zlib.h file due to permissions. Running the command as root worked:
 
 ```
 sudo pip install -e '.[atari]'

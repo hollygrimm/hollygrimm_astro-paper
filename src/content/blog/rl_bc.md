@@ -9,24 +9,26 @@ tags:
   - ReinforcementLearning
   - ImitationLearning
   - Mujoco
-ogImage: "https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw1/images/walker_val_loss.png" 
-description:
-  Imitation Learning and Mujoco
+ogImage: "/sites/default/files/styles/large/public/2018-07/walk2d_frame_125.png"
+description: Imitation Learning and Mujoco
 ---
+
 ## Imitation Learning and Mujoco
 
-This week I worked on *Homework 1: Imitation Learning* from the Fall 2017 CS294 course at Berkeley. Professor Levine is an amazing lecturer and the information he covers in [one lecture](https://www.youtube.com/watch?v=C_LGsoe36I8&index=3&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&t=0s) is quite dense.
+![Walk 2d](/sites/default/files/styles/large/public/2018-07/walk2d_frame_125.png)
+
+This week I worked on _Homework 1: Imitation Learning_ from the Fall 2017 CS294 course at Berkeley. Professor Levine is an amazing lecturer and the information he covers in [one lecture](https://www.youtube.com/watch?v=C_LGsoe36I8&index=3&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&t=0s) is quite dense.
 
 Imitation Learning is a form of Supervised machine learning for behavior. For this exercise, we were supplied with expert policies for six different OpenAI Gym Mujoco environments. Each environment has different observation and action spaces:
 
-| Environment    | Observations | Actions | Video |
-| -------------- | ------------ | ------- | ----- |
-| Ant            | 11           | 8       |<video controls=""><source src="https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw1/images/ant_expert_250.mp4" type="video/mp4"></source> Your browser does not support the video tag.</video>|
-| HalfCheetah    | 17           | 6       |<video controls=""><source src="https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw1/images/halfcheetah_expert_250.mp4" type="video/mp4"></source> Your browser does not support the video tag.</video>|
-| Hopper         | 11           | 3       |<video controls=""><source src="https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw1/images/hopper_expert_250.mp4" type="video/mp4"></source> Your browser does not support the video tag.</video>|
-| Humanoid       | 376          | 17      |<video controls=""><source src="https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw1/images/humanoid_expert_250.mp4" type="video/mp4"></source> Your browser does not support the video tag.</video>|
-| Reacher        | 11           | 2       |<video controls=""><source src="https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw1/images/reacher_expert_250.mp4" type="video/mp4"></source> Your browser does not support the video tag.</video>|
-| Walker2d       | 11           | 2       |<video controls=""><source src="https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw1/images/walker_expert_250.mp4" type="video/mp4"></source> Your browser does not support the video tag.</video>|
+| Environment | Observations | Actions | Video                                                                                                                                                                                                                     |
+| ----------- | ------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ant         | 11           | 8       | <video controls=""><source src="https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw1/images/ant_expert_250.mp4" type="video/mp4"></source> Your browser does not support the video tag.</video>         |
+| HalfCheetah | 17           | 6       | <video controls=""><source src="https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw1/images/halfcheetah_expert_250.mp4" type="video/mp4"></source> Your browser does not support the video tag.</video> |
+| Hopper      | 11           | 3       | <video controls=""><source src="https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw1/images/hopper_expert_250.mp4" type="video/mp4"></source> Your browser does not support the video tag.</video>      |
+| Humanoid    | 376          | 17      | <video controls=""><source src="https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw1/images/humanoid_expert_250.mp4" type="video/mp4"></source> Your browser does not support the video tag.</video>    |
+| Reacher     | 11           | 2       | <video controls=""><source src="https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw1/images/reacher_expert_250.mp4" type="video/mp4"></source> Your browser does not support the video tag.</video>     |
+| Walker2d    | 11           | 2       | <video controls=""><source src="https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw1/images/walker_expert_250.mp4" type="video/mp4"></source> Your browser does not support the video tag.</video>      |
 
 The task was to train a Neural Network on these expert policies (Behavioral Cloning), compare it to the expert results, and, lastly, enhance the Neural Network with an additional aggregation step (DAgger).
 
@@ -75,14 +77,14 @@ python bc.py
 
 ## Training Results
 
-| Environment    | Roll-outs | Expert Rewards | BC Rewards | DAgger Rewards |
-| -------------- | --------- | -------------- | ---------- | -------------- |
-| Ant-v1         | 250       | 4747 (459)     | 905 (1)    | 896 (2)        |
-| HalfCheetah-v1 | 10        | 4161 (69)      | 4197 (76)  | 4139 (57)      |
-| Hopper-v1      | 10        | 3780 (1)       | 3581 (598) | 3775 (2)       |
-| Humanoid-v1    | 250       | 10402 (107)    | 354 (7)    | 385 (24)       |
-| Reacher-v1     | 10        | -3.8 (1)       | -14 (5)    | -12 (3)        |
-| Walker2d-v1    | 250       | 5513 (49)      | 4993 (1058)| 5460 (132)     |
+| Environment    | Roll-outs | Expert Rewards | BC Rewards  | DAgger Rewards |
+| -------------- | --------- | -------------- | ----------- | -------------- |
+| Ant-v1         | 250       | 4747 (459)     | 905 (1)     | 896 (2)        |
+| HalfCheetah-v1 | 10        | 4161 (69)      | 4197 (76)   | 4139 (57)      |
+| Hopper-v1      | 10        | 3780 (1)       | 3581 (598)  | 3775 (2)       |
+| Humanoid-v1    | 250       | 10402 (107)    | 354 (7)     | 385 (24)       |
+| Reacher-v1     | 10        | -3.8 (1)       | -14 (5)     | -12 (3)        |
+| Walker2d-v1    | 250       | 5513 (49)      | 4993 (1058) | 5460 (132)     |
 
 The standard deviation of the rewards is in parenthesis. I was able to get good results on HalfCheetah, Hopper, and Walker2d. Below shows the validation loss comparison between DAgger and Behavioral Cloning (BC). DAgger was able to train faster and better in 40 epochs than BC in 100 epochs on Walker2d.
 

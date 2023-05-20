@@ -10,11 +10,13 @@ tags:
   - PolicyGradients
   - TRPO
   - A2C
-ogImage: "https://raw.githubusercontent.com/hollygrimm/policy-optimization-algos/master/assets/a2c-breakout.png" 
-description:
-  Natural Policy Gradients, TRPO, A2C
+ogImage: "/sites/default/files/styles/large/public/2018-07/breakout_333.png"
+description: Natural Policy Gradients, TRPO, A2C
 ---
+
 ## Natural Policy Gradients, TRPO, A2C
+
+![Breakout](/sites/default/files/styles/large/public/2018-07/breakout_333.png)
 
 Most of the recent successes in reinforcement learning comes from applying a more sophisticated optimization problem to policy gradients. This week I learned about advanced policy gradient techniques using algorithms such as Natural Policy Gradients, TRPO, and A2C.
 
