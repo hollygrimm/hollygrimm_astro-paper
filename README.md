@@ -1,7 +1,88 @@
 # Holly Grimm
 
-# original readme below:
+# TODO:
 
+- [ ] add custom domain https://docs.fleek.xyz/services/domains/
+- [ ] verify Github workflow is working
+
+# Add Fleek
+
+## Install Fleek CLI Globally
+
+```bash
+npm install -g @fleekxyz/cli
+```
+
+## Create a fleek.json config file:
+
+```bash
+fleek sites init
+```
+
+fleek will authenticate via the browser and ask you the following:
+
+✔ enter project name … hollygrimm
+✔ enter site name … hollygrimm
+✔ Specify the dist directory from where the site will be uploaded from … dist
+✔ Do you want to include the optional "build" command? … yes
+✔ Specify `build` command: … npm run build
+
+## Deploy
+
+```bash
+fleek sites deploy
+```
+
+Result:
+
+Site IPFS CID: QmQSGAN1jjKFasmoDukH3vB7NR2VQG8bMJpCuDpvmdTTcp
+
+You can visit through the gateway:
+https://ipfs.io/ipfs/QmQSGAN1jjKFasmoDukH3vB7NR2VQG8bMJpCuDpvmdTTcp
+
+Set up IPNS:
+
+```bash
+fleek ipns create
+```
+
+> Success! IPNS record created.
+> k51qzi5uqu5dk29co17qlb1kzb58fsfv1q0sqfpjc4c8oh6lxldd46s1gp3rnv
+
+Publish the IPNS after copying the ipfsCid as the --hash
+
+```bash
+fleek ipns publish --name k51qzi5uqu5dk29co17qlb1kzb58fsfv1q0sqfpjc4c8oh6lxldd46s1gp3rnv --hash QmQSGAN1jjKFasmoDukH3vB7NR2VQG8bMJpCuDpvmdTTcp
+```
+
+After 1 to 30 minutes this should work:
+
+https://ipfs.io/ipns/k51qzi5uqu5dk29co17qlb1kzb58fsfv1q0sqfpjc4c8oh6lxldd46s1gp3rnv
+
+## Update ENS Record to point to new IPNS Hash:
+
+https://app.ens.domains/
+
+Choose Settings, select ENS, Click Records, Click Edit Records, Click Other and type under "Content Hash" `ipns://k51qzi5uqu5dk29co17qlb1kzb58fsfv1q0sqfpjc4c8oh6lxldd46s1gp3rnv`
+Save and pay for the transaction
+
+open https://hollyr.eth.limo/
+
+## Setup up CI
+
+```bash
+ fleek sites ci
+```
+
+Select GitHub Actions
+✔ Would you like to run an install command? This will be executed before the build command. … yes
+✔ Do you want to specify the install command? If not, one will be generated based on your lockfile. … no
+✔ We've generated the following install command based on your lockfile: npm install. Is this correct? … yes
+✔ Workflow config will be saved in: /mnt/docs/projects/hollygrimm_astro-paper/.github/workflows/fleek-deploy.yaml. Would you like to specify a different path? … no
+
+Copy the resulting secrets to the Github repository settings.
+
+# original readme below:
 
 # AstroPaper 📄
 
