@@ -7,9 +7,10 @@ draft: false
 tags:
   - Artists-Statement
   - Art
-description:
-  Artist's Talk, Biography, Cultivation of Collectors, and Artist's Statement
+ogImage: "/sites/default/files/styles/large/public/2017-06/untitled_2016-07-03_1080.jpg"
+description: Artist's Talk, Biography, Cultivation of Collectors, and Artist's Statement
 ---
+
 When creating your artist's statement, read two types of art writing:
 
 - Art reviews in magazines such as Art Forum and NYT to analyze what critics are looking for

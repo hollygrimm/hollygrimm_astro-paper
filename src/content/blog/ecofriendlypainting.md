@@ -9,9 +9,10 @@ tags:
   - Painting
   - Eco-friendly
   - Acrylic
-description:
-  Chemical composition of pigments and binders
+ogImage: "/sites/default/files/styles/large/public/2017-06/untitled_2016-07-01_1080.jpg"
+description: Chemical composition of pigments and binders
 ---
+
 Acrylic painting can be more eco-friendly than oil painting, but the chemical composition of pigments and binders should be investigated by all artists before purchasing paints. Some pigments can be toxic and others may contain heavy metals that should not be washed down the drain.
 
 Start by reading the labels on each paint tube. In addition, the material safety data sheet (MSDS)<sub><sup>1</sup></sub> for your acrylic paint line can be helpful.
@@ -36,7 +37,7 @@ Ammonia and propylene glycol can irritate your lungs when drying so you should h
 
 I use only non-toxic paints, but many non-toxics contain heavy metals that should not be in our wastewater.<sub><sup>2</sup></sub>
 
-To wash your brushes, use three large buckets filled halfway with water. The first bucket should contain some soap.  Wash your brushes in the first bucket and then rinse in the remaining two buckets. Continue to reuse the buckets until the rinse water is too dirty. When you need to start a clean bucket of water, create a press cake of paint for disposal either by allowing the water to evaporate or by mixing with aluminum sulfate and hydrated lime.<sub><sup>3</sup></sub>
+To wash your brushes, use three large buckets filled halfway with water. The first bucket should contain some soap. Wash your brushes in the first bucket and then rinse in the remaining two buckets. Continue to reuse the buckets until the rinse water is too dirty. When you need to start a clean bucket of water, create a press cake of paint for disposal either by allowing the water to evaporate or by mixing with aluminum sulfate and hydrated lime.<sub><sup>3</sup></sub>
 
 The bucket method will also help you avoid plugging up your drains if you don't happen to have a paint trap under your sink.
 
@@ -137,4 +138,3 @@ If you need to adjust the sheen, apply clear coats of matte or gloss mediums to 
 2. [Schools Sing the Blues over Heavy Metals [goldenacrylics.com]](http://www.goldenpaints.com/justpaint/jp7article2.php)
 3. [Removing Water-Based Paint Solids from Rinse Water [goldenacrylics.com]](http://www.goldenpaints.com/justpaint/jp3article3.php)
 4. [Tachid, Rheni (2009), _New acrylics essential sourcebook p. 154_ [Google Books]](http://books.google.ca/books?id=5XZcoz4zidAC&lpg=PA163&dq=acrylic%20painting&pg=PA154#v=onepage&q&f=false)
-

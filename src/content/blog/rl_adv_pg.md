@@ -151,7 +151,7 @@ total_loss = policy_loss + vf_loss * vf_loss_coeff
 
 Here is the Average Rewards after training A2C on Atari’s Breakout:
 
-![](https://raw.githubusercontent.com/hollygrimm/policy-optimization-algos/master/assets/a2c-breakout.png)
+![Average Rewards](/assets/a2c-breakout.png)
 
 Trained Policy Playing Breakout:
 

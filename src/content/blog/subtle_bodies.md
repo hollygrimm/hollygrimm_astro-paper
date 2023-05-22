@@ -32,68 +32,68 @@ Here are six samples of input paintings and output figurative watercolors:
 
 Full results:
 
-![Untitled (Green) - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/untitled_green_2014-01-25_305001.jpg?itok=oOe-zUoH)
+![Untitled (Green) - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/untitled_green_2014-01-25_305001.jpg)
 
-![Untitled (Blue) - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/untitled_blue_2014-01-14_305001.jpg?itok=qFS9xqo5)
+![Untitled (Blue) - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/untitled_blue_2014-01-14_305001.jpg)
 
-![Untitled (2014-10-28) - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/untitled_2014-10-28_305001.jpg?itok=U2jDx0D3)
+![Untitled (2014-10-28) - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/untitled_2014-10-28_305001.jpg)
 
-![Untitled (2014-03-29) - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/untitled_2014-03-29_v2_305001.jpg?itok=pvYki9m6)
+![Untitled (2014-03-29) - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/untitled_2014-03-29_v2_305001.jpg)
 
-![Splash - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/splash_2015-04-22_1_305001.jpg?itok=dADrF1Jz)
+![Splash - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/splash_2015-04-22_1_305001.jpg)
 
-![Rail Buster - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_railbuster_305001.jpg?itok=ucmQZnib)
+![Rail Buster - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_railbuster_305001.jpg)
 
-![Nymph's Choice - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_nymphschoice_305001.jpg?itok=EZRZ9BP6)
+![Nymph's Choice - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_nymphschoice_305001.jpg)
 
-![Lazy Hero - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_lazyhero_305001.jpg?itok=FKWDdb1i)
+![Lazy Hero - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_lazyhero_305001.jpg)
 
-![Kinch Motor - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_kinchmotor_305001.jpg?itok=ZcoRayEh)
+![Kinch Motor - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_kinchmotor_305001.jpg)
 
-![Sonder Phase - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2018-18-10_sonderphase_305001.jpg?itok=GUrJH2r2)
+![Sonder Phase - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2018-18-10_sonderphase_305001.jpg)
 
-![Power Surge - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2017-09-26_powersurge_305001.jpg?itok=OH3pATJ2)
+![Power Surge - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2017-09-26_powersurge_305001.jpg)
 
-![Magma Plume - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2017-08-12_magma_plume_305001.jpg?itok=jJoE86hy)
+![Magma Plume - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2017-08-12_magma_plume_305001.jpg)
 
-![Perseus Rumble - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2017-07-25_Perseus_Rumble_305001.jpg?itok=LQhND8OR)
+![Perseus Rumble - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2017-07-25_Perseus_Rumble_305001.jpg)
 
-![Nimble Tau - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2017-07-25_Nimble_Tau_305001.jpg?itok=mFHcvzZe)
+![Nimble Tau - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2017-07-25_Nimble_Tau_305001.jpg)
 
-![Cochabamba Bazaar - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2017-04-29_cochabambabazaar_305001.jpg?itok=60VhabSn)
+![Cochabamba Bazaar - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2017-04-29_cochabambabazaar_305001.jpg)
 
-![Great Barrier Niche - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2017-04-27_greatbarrierniche_305001.jpg?itok=XlsOIk8A)
+![Great Barrier Niche - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2017-04-27_greatbarrierniche_305001.jpg)
 
-![Japanese Garden - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2016-11-21_japanesegarden_305001.jpg?itok=F3fm0X9M)
+![Japanese Garden - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2016-11-21_japanesegarden_305001.jpg)
 
-![Van Allen Effect - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2016-11-20_vanalleneffect_305001.jpg?itok=RlTseGR8)
+![Van Allen Effect - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2016-11-20_vanalleneffect_305001.jpg)
 
-![Sparrow's Delight - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2016-11-18_sparrowsdelight_305001.jpg?itok=ZwHkvxuR)
+![Sparrow's Delight - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2016-11-18_sparrowsdelight_305001.jpg)
 
-![Monstrodome - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2016-07-01_monstrodome_305001.jpg?itok=uj44z17t)
+![Monstrodome - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/painting_2016-07-01_monstrodome_305001.jpg)
 
-![Chenrezig - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_chenrezig_2016-11-28_305001.jpg?itok=ZXIYdA7I)
+![Chenrezig - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_chenrezig_2016-11-28_305001.jpg)
 
-![Rose Garden - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2017-06-27_rosegarden_305001.jpg?itok=LDHnRUhd)
+![Rose Garden - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2017-06-27_rosegarden_305001.jpg)
 
-![Aspen Vista - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2017-03-01_aspenvista_305001.jpg?itok=GlfOWhXw)
+![Aspen Vista - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2017-03-01_aspenvista_305001.jpg)
 
-![Jungle Theorem - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-11-19_jungletheorem_305001.jpg?itok=Ae88B_9m)
+![Jungle Theorem - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-11-19_jungletheorem_305001.jpg)
 
-![June Virga - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-06-09_june%20virga_305001.jpg?itok=FJ0D60Xe)
+![June Virga - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-06-09_june_virga_305001.jpg)
 
-![SF Train Station - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-06-04_sf_train_station_305001.jpg?itok=_-fi1vzy)
+![SF Train Station - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-06-04_sf_train_station_305001.jpg)
 
-![Loretto Morning - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-05-13_loretto_morning_305001.jpg?itok=n73urJ8I)
+![Loretto Morning - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-05-13_loretto_morning_305001.jpg)
 
-![La Fonda - AI Generated- 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-05-10_lafonda_305001.jpg?itok=C6xcwZxe)
+![La Fonda - AI Generated- 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-05-10_lafonda_305001.jpg)
 
-![Pilar - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-04-10_pilar_305001.jpg?itok=mG90zQ8R)
+![Pilar - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-04-10_pilar_305001.jpg)
 
-![Silvia Sunset - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-04-02_silviasunset_305001.jpg?itok=OTAzXEA5)
+![Silvia Sunset - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-04-02_silviasunset_305001.jpg)
 
-![Nambe - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-01-23_nambe_305001.jpg?itok=w1ESNqoD)
+![Nambe - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2016-01-23_nambe_305001.jpg)
 
-![SF Canyon Preserve - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2014-09-04_sf_canyon_preserve_305001.jpg?itok=wMFpeNNu)
+![SF Canyon Preserve - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2014-09-04_sf_canyon_preserve_305001.jpg)
 
-![Big Tesuque 2 - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2014-06-26_big_tesuque_2_305001.jpg?itok=VaMEooCx)
+![Big Tesuque 2 - AI Generated - 305001](/sites/default/files/styles/large/public/2019-09/pa_2014-06-26_big_tesuque_2_305001.jpg)

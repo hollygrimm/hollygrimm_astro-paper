@@ -67,7 +67,7 @@ run_expert.generate_all_rollout_data()
 
 The network has two fully-connected layers with 50 units per layer, followed by a ReLU non-linearity. The observation data is normalized before training. I used a batch size of 32 and learning rate of .001. For behavioral cloning, I trained for 100 epochs and for DAgger, 40 epochs.
 
-![TF Graph](https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw1/images/graph.png)
+![TF Graph](/assets/hw1-graph.png)
 
 To train the model, run:
 
@@ -88,7 +88,7 @@ python bc.py
 
 The standard deviation of the rewards is in parenthesis. I was able to get good results on HalfCheetah, Hopper, and Walker2d. Below shows the validation loss comparison between DAgger and Behavioral Cloning (BC). DAgger was able to train faster and better in 40 epochs than BC in 100 epochs on Walker2d.
 
-![Walker2D Validation Loss](https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw1/images/walker_val_loss.png)
+![Walker2D Validation Loss](/assets/walker_val_loss.png)
 
 Behavioral Cloning:
 

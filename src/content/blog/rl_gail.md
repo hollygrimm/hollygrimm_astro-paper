@@ -8,10 +8,10 @@ tags:
   - OpenAI
   - ReinforcementLearning
   - GAIL
-ogImage: "https://raw.githubusercontent.com/hollygrimm/gail-mujoco/master/result/Humanoid-unnormalized-deterministic-scores.png"
-description:
-  Generative Adversarial Imitation Learning (GAIL)
+ogImage: "/assets/Humanoid-unnormalized-deterministic-scores.png"
+description: Generative Adversarial Imitation Learning (GAIL)
 ---
+
 ## Generative Adversarial Imitation Learning (GAIL)
 
 Imitation Learning or learning from expert trajectories can be implemented two different ways:
@@ -45,7 +45,7 @@ I used OpenAI’s Baseline GAIL code to train on MuJoCo: [https://github.com/hol
 
 I ran GAIL and Behaviorial Cloning on the following MuJoCo environments: Humanoid, HumanoidStandup, and Hopper. With five expert trajectories on Humanoid, GAIL was able to get better than "expert" results. These tests were run with only one seed, I would need to run many more seeds to make a conclusive statement.
 
-![Humanoid Scores](https://raw.githubusercontent.com/hollygrimm/gail-mujoco/master/result/Humanoid-unnormalized-deterministic-scores.png)
+![Humanoid Scores](/assets/Humanoid-unnormalized-deterministic-scores.png)
 
 HumanoidStandup Trained on GAIL
 
@@ -53,7 +53,7 @@ HumanoidStandup Trained on GAIL
 
 ## References
 
-1. Sergey Levine. “CS294 Inverse reinforcement learning”. [Video](https://www.youtube.com/watch?v=-3BcZwgmZLk&amp;t=0s&amp;list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&amp;index=14) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_12_irl.pdf)
+1. Sergey Levine. “CS294 Inverse reinforcement learning”. [Video](https://www.youtube.com/watch?v=-3BcZwgmZLk&t=0s&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=14) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_12_irl.pdf)
 2. Ng et al. “Algorithms for Inverse Reinforcement Learning”. [PDF](http://ai.stanford.edu/~ang/papers/icml00-irl.pdf).
 3. Fu et al. “Learning Robust Rewards with Adversarial Inverse Reinforcement Learning”. [PDF](https://arxiv.org/abs/1710.11248).
 4. Ziebart et al. “Maximum Entropy Inverse Reinforcement Learning”. [PDF](http://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf).

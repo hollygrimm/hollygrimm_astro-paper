@@ -8,9 +8,9 @@ tags:
   - OpenAI
   - ReinforcementLearning
 ogImage: "/sites/default/files/styles/large/public/2018-06/mdp_brain_500.png"
-description:
-  Reinforcement Learning - Markov Decision Processes
+description: Reinforcement Learning - Markov Decision Processes
 ---
+
 ## Reinforcement Learning - Markov Decision Processes
 
 ![Interaction in a Markov Decision Process](/sites/default/files/styles/large/public/2018-06/mdp_brain_500.png)
@@ -25,15 +25,16 @@ The scholars cohort is a great group with diverse interests and background. I lo
 
 For the next two months, I’ll be doing a deep dive into Reinforcement Learning (RL). I’d like to obtain an understanding of the common RL algorithms and apply them to toy projects running on OpenAI’s Gym.
 
-![RL Algorithms diagram](https://raw.githubusercontent.com/hollygrimm/markov-decision-processes/master/images/rl_algo_diagram.png)
+![RL Algorithms diagram](/assets/rl_algo_diagram.png)
 
 Here is my [full syllabus](/syllabus_rl).
 
 My first week ([GitHub repo](https://github.com/hollygrimm/markov-decision-processes)) was spent learning Markov decision processes (MDP). At the beginning of this week, I implemented Value Iteration and Policy Iteration on a finite MDP, the FrozenLake environment. It's considered finite because the entire dynamics of the model is defined. Here is an animation of value iteration:
 
-![Value Iteration on a MDP](https://raw.githubusercontent.com/hollygrimm/markov-decision-processes/master/images/mdp_valueiteration.gif)
+![Value Iteration on a MDP](/assets/mdp_valueiteration.png)
 
 Value Iteration in Python:
+
 <script src="https://gist.github.com/hollygrimm/e4ac41e720c393f04283c2c47062ce90.js"></script>
 
 Function parameters:
@@ -43,6 +44,7 @@ Function parameters:
 - nIt - number of iterations through the MDP
 
 In most cases, though, the entire transition model will not be available. Instead, sample-based Q-learning is used to train the agent. Q-learning is an off-policy algorithm, meaning the q values are updated and improved by selecting the next state's value using the greedy policy (deterministic), whereas the agent's action is sampled using the epsilon-greedy policy.
+
 <script src="https://gist.github.com/hollygrimm/8d558402403ad383f3995cd939ce69e8.js"></script>
 
 Function parameters:
@@ -66,4 +68,3 @@ A video of the same Crawler robot after it has been trained for 30,000 steps wit
 <video controls=""><source src="https://raw.githubusercontent.com/hollygrimm/markov-decision-processes/master/videos/crawler_qlearn_epsgreedy_30000.mp4" type="video/mp4"></source> Your browser does not support the video tag.</video>
 
 This week I was able to learn and work with the basic concepts of reinforcement learning using simple environments provided by OpenAI Gym. I look forward to expanding on this with Monte Carlo methods using Gym's Blackjack environment next week.
-

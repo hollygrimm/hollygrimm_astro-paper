@@ -73,7 +73,7 @@ The Adam Optimizer was used for training with a learning rate of .005.
 
 For CartPole, the average return reached close to 200 after about 60 iterations with a large batch size of 5000. The runs done without normalizing advantages (dna) did slightly better than the ones with normalized advantages (na). Reward-to-go (rtg) converged faster than the no-rtg training.
 
-![CartPole Chart Large Batch](https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw2/charts/avg_return_cartpole_lgbatch_5000.png)
+![CartPole Chart Large Batch](/assets/avg_return_cartpole_lgbatch_5000.png)
 
 Here is a video of CartPole, trained large batch, reward-to-go, and without normalizing advantages:
 
@@ -84,7 +84,7 @@ Your browser does not support the video tag.
 
 ## InvertedPendulum Results
 
-![Inverted Pendulum Chart Small Batch](https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw2/charts/avg_return_invertedpendulum.png)
+![Inverted Pendulum Chart Small Batch](/assets/avg_return_invertedpendulum.png)
 
 Inverted Pendulum did better with small batches of 1000 episodes and by changing the learning rate from the default of .005 to .02. The best results came from reward-to-go, normalized advantages, and a baseline computation.
 
@@ -99,27 +99,27 @@ After completing the homework, I thought I would apply the same algorithm to Ope
 
 Training for two days on an AWS EC2 p2.xlarge instance resulted in the following rewards. The first chart is the first 300 epochs:
 
-![Pong Training to 300 epochs](https://raw.githubusercontent.com/hollygrimm/pongfrompixels/master/images/chart_to300epochs.png)
+![Pong Training to 300 epochs](/assets/chart_to300epochs.png)
 
 The next chart shows the rewards from epoch number 300 to 2300:
 
-![Pong Training 300 to 2800 epochs](https://raw.githubusercontent.com/hollygrimm/pongfrompixels/master/images/chart_from300epochstoend.png)
+![Pong Training 300 to 2800 epochs](/assets/chart_from300epochstoend.png)
 
 The orange paddle is the hard-coded AI opponent. The green is the agent trained using policy gradients. When the ball goes past the opponent, a reward of +1 is obtained, and if the ball goes past the agent it results in a reward of -1. A score of -21 happens when the opponent wins every game in an episode, +21 is the result when the trained agent wins all the games. Average human performance is -3 [6], and super human performance is considered +5. My training maxed out with an average reward of +8.
 
 The network is one fully connected layer of 200 units with a ReLU activation. One frame from the Pong Env looks like this:
 
 Original:
-![Pong Frame 1](https://raw.githubusercontent.com/hollygrimm/pongfrompixels/master/images/example_pong_frame.png) ->
+![Pong Frame 1](/assets/example_pong_frame.png) ->
 
 Cropped:
-![Pong Frame 2](https://raw.githubusercontent.com/hollygrimm/pongfrompixels/master/images/example_pong_frame_160x160.png) ->
+![Pong Frame 2](/assets/example_pong_frame_160x160.png) ->
 
 Resampled:
-![Pong Frame 3](https://raw.githubusercontent.com/hollygrimm/pongfrompixels/master/images/example_pong_frame_80x80.png) ->
+![Pong Frame 3](/assets/example_pong_frame_80x80.png) ->
 
 B&W:
-![Pong Frame 4](https://raw.githubusercontent.com/hollygrimm/pongfrompixels/master/images/example_pong_frame_80x80_bandw.png)
+![Pong Frame 4](/assets/example_pong_frame_80x80_bandw.png)
 
 The frame is first cropped to only the playing area (160x160). Then the frame is resized by half (80x80). Finally, the background is set to black, and the ball and paddles are set to white. The pixels are flattened into a (6400 x 1) line of pixels. The previous frame is then subtracted from this frame to train the network on motion between two frames. This difference frame is what is input to the network.
 

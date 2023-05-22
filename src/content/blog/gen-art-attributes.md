@@ -10,9 +10,10 @@ tags:
   - ArtCompositionAttributesNetwork
   - GenerativeAdversarialNetworks
   - Discriminators
-description:
-  Final Project Proposal and Dataset Attributes - Generative Art with Domain Knowledge
+ogImage: "/sites/default/files/inline-images/triadic.png"
+description: Final Project Proposal and Dataset Attributes - Generative Art with Domain Knowledge
 ---
+
 ## Final Project Proposal and Dataset Attributes - Generative Art with Domain Knowledge
 
 ## Introduction
@@ -72,53 +73,53 @@ Technical merit ranges from 1-10. In my opinion, most of the artworks in the Wik
 
 ### Variety of Texture (values 1-10)
 
-Barnett Newman’s *Who’s Afraid of Red, Yellow and Blue II* has very little texture:
+Barnett Newman’s _Who’s Afraid of Red, Yellow and Blue II_ has very little texture:
 
-![Barnett Newman Who’s Afraid of Red, Yellow and Blue II](/sites/default/files/inline-images/Barnett%20Newman%20Whos%20Afraid%20of%20Red%2C%20Yellow%20and%20Blue%20II.jpg)
+![Barnett Newman Who’s Afraid of Red, Yellow and Blue II](/sites/default/files/inline-images/Barnett_Newman_Whos_Afraid_of_Red_Yellow_and_Blue_II.jpg)
 
-Whereas Konstantin Korovin’s *Paris Seine* has a lot of texture:
+Whereas Konstantin Korovin’s _Paris Seine_ has a lot of texture:
 
-![Konstantin Korovin Paris.Seine](/sites/default/files/inline-images/Konstantin%20Korovin%20Paris.Seine_.jpg)
+![Konstantin Korovin Paris.Seine](/sites/default/files/inline-images/Konstantin_Korovin_Paris.Seine_.jpg)
 
 ### Variety of Shape (values 1-10)
 
-Lucio Fontana’s *Concept Spatiale* has only a few shapes:
+Lucio Fontana’s _Concept Spatiale_ has only a few shapes:
 
-![Lucio Fontana Concept Spatiale](/sites/default/files/inline-images/Lucio%20Fontana%20Concept%20Spatiale.jpg)
+![Lucio Fontana Concept Spatiale](/sites/default/files/inline-images/Lucio_Fontana_Concept_Spatiale.jpg)
 
-Jean Fouquet’s *Funerals* has a variety of different shapes:
+Jean Fouquet’s _Funerals_ has a variety of different shapes:
 
-![Jean Fouquet Funerals](/sites/default/files/inline-images/Jean%20Fouquet%20Funerals.jpg)
+![Jean Fouquet Funerals](/sites/default/files/inline-images/Jean_Fouquet_Funerals.jpg)
 
 ### Variety of Size (value 1-10)
 
-Patrick Henry Bruce’s *Composition I* has shapes that are all about same size:
+Patrick Henry Bruce’s _Composition I_ has shapes that are all about same size:
 
-![Patrick Henry Bruce Composition I](/sites/default/files/inline-images/Patrick%20Henry%20Bruce%20Composition%20I.jpg)
+![Patrick Henry Bruce Composition I](/sites/default/files/inline-images/Patrick_Henry_Bruce_Composition_I.jpg)
 
-Volodymyr Orlovsky’s *Reaping. Hiok.* has many different sizes of shapes:
+Volodymyr Orlovsky’s _Reaping. Hiok._ has many different sizes of shapes:
 
-![Volodymyr Orlovsky Reaping. Hiok](/sites/default/files/inline-images/Volodymyr%20Orlovsky%20Reaping.%20Hiok.jpg)
+![Volodymyr Orlovsky Reaping. Hiok](/sites/default/files/inline-images/Volodymyr_Orlovsky_Reaping._Hiok.jpg)
 
 ### Contrast (value 1-10)
 
-Tosa Mitsuoki’s *Night March of a Hundred Demons (left half)* has low contrast:
+Tosa Mitsuoki’s _Night March of a Hundred Demons (left half)_ has low contrast:
 
-![Tosa Mitsuoki Night March of a Hundred Demons (left half)](/sites/default/files/inline-images/Tosa%20Mitsuoki%20Night%20March%20of%20a%20Hundred%20Demons%20%28left%20half%29.jpg)
+![Tosa Mitsuoki Night March of a Hundred Demons (left half)](/sites/default/files/inline-images/Tosa_Mitsuoki_Night_March_of_a_Hundred_Demons_left_half.jpg)
 
-Samuel Peploe’s *Still Life with Roses in a Chinese Vase* has high contrast:
+Samuel Peploe’s _Still Life with Roses in a Chinese Vase_ has high contrast:
 
-![Samuel Peploe Still Life with Roses in a Chinese Vase](/sites/default/files/inline-images/Samuel%20Peploe%20Still%20Life%20with%20Roses%20in%20a%20Chinese%20Vase.jpg)
+![Samuel Peploe Still Life with Roses in a Chinese Vase](/sites/default/files/inline-images/Samuel_Peploe_Still_Life_with_Roses_in_a_Chinese_Vase.jpg)
 
 ### Repetition (value 1-10)
 
-Gene Davis’ *Homage to Dubuffet I* has only very little repetition of shape:
+Gene Davis’ _Homage to Dubuffet I_ has only very little repetition of shape:
 
-![Gene Davis Homage to Dubuffet I](/sites/default/files/inline-images/Gene%20Davis%20Homage%20to%20Dubuffet%20I.jpg)
+![Gene Davis Homage to Dubuffet I](/sites/default/files/inline-images/Gene_Davis_Homage_to_Dubuffet_I.jpg)
 
-Josef Albers’ *Frontal* has a lot of repetition of shape:
+Josef Albers’ _Frontal_ has a lot of repetition of shape:
 
-![Josef Albers Frontal](/sites/default/files/inline-images/Josef%20Albers%20Frontal.jpg)
+![Josef Albers Frontal](/sites/default/files/inline-images/Josef_Albers_Frontal.jpg)
 
 ### Color
 
@@ -126,21 +127,21 @@ The primary color is selected using the Magenta, Cyan, and Yellow color chart wh
 
 The harmony feature can be one of six: monochromatic, analogous, complementary, split complementary, triadic, tetradic.
 
-Hiroshige’s *Small Bird on a Branch of Kaidozakura* is Orange/Split Complementary:
+Hiroshige’s _Small Bird on a Branch of Kaidozakura_ is Orange/Split Complementary:
 
-![Hiroshige Small Bird on a Branch of Kaidozakura](/sites/default/files/inline-images/Hiroshige%20Small%20Bird%20on%20a%20Branch%20of%20Kaidozakura.jpg)
+![Hiroshige Small Bird on a Branch of Kaidozakura](/sites/default/files/inline-images/Hiroshige_Small_Bird_on_a_Branch_of_Kaidozakura.jpg)
 
-Franz Richard Unterberger's *Procession in Naples* is Orange/Complementary:
+Franz Richard Unterberger's _Procession in Naples_ is Orange/Complementary:
 
-![Franz Richard Unterberger's Procession in Naples](/sites/default/files/inline-images/Franz%20Richard%20Unterberger%27s%20Procession%20in%20Naples.jpg)
+![Franz Richard Unterberger's Procession in Naples](/sites/default/files/inline-images/Franz_Richard_Unterbergers_Procession_in_Naples.jpg)
 
-Francisco Goya’s *Bildzyklus* is Orange/Analogous
+Francisco Goya’s _Bildzyklus_ is Orange/Analogous
 
-![Francisco Goya Bildzyklus](/sites/default/files/inline-images/Francisco%20Goya%20Bildzyklus.jpg)
+![Francisco Goya Bildzyklus](/sites/default/files/inline-images/Francisco_Goya_Bildzyklus.jpg)
 
-Josef Albers’ *Frontal* is Orange/Monochromatic:
+Josef Albers’ _Frontal_ is Orange/Monochromatic:
 
-![Josef Albers Frontal](/sites/default/files/inline-images/Josef%20Albers%20Frontal_0.jpg)
+![Josef Albers Frontal](/sites/default/files/inline-images/Josef_Albers_Frontal_0.jpg)
 
 ## Next Week
 

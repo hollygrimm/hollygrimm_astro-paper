@@ -10,9 +10,10 @@ tags:
   - Keras
   - GenerativeArt
   - ArtCompositionAttributesNetwork
-description:
-  Tuning ResNet50 Code and Multilabel Attributes
+ogImage: "/sites/default/files/inline-images/tetradic.png"
+description: Tuning ResNet50 Code and Multilabel Attributes
 ---
+
 ## Tuning ResNet50 Code and Multilabel Attributes
 
 As detailed last week, I’m fine tuning ResNet50 for art attributes. Here is the Keras code: [https://github.com/hollygrimm/art-composition-cnn](https://github.com/hollygrimm/art-composition-cnn).
@@ -33,7 +34,7 @@ The model uses the ResNet50 pretrained on imagenet. To output the art compositio
 
 ### Training on Color Attributes
 
-So far, I’ve just trained on attributes that have values 1-10. I’d also like to add two color classification attributes:  color harmony (monochromatic, analogous, complementary, split complementary, triadic, tetradic)  and primary color (Magenta, Red-Magenta, Red, Orange, Yellow, Yellow-Green, Green, Green-Cyan, Cyan, Blue-Cyan, Blue, and Blue-Magenta).
+So far, I’ve just trained on attributes that have values 1-10. I’d also like to add two color classification attributes: color harmony (monochromatic, analogous, complementary, split complementary, triadic, tetradic) and primary color (Magenta, Red-Magenta, Red, Orange, Yellow, Yellow-Green, Green, Green-Cyan, Cyan, Blue-Cyan, Blue, and Blue-Magenta).
 
 Color harmony will be treated as a standard classification problem using one-hot encoding.
 

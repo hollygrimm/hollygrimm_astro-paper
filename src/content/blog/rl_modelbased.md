@@ -28,7 +28,7 @@ I implemented the CS294 Homework 4 [7] to understand the interaction between the
 
 ## Results
 
-![HalfCheetah Average Return](https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw4/assets/halfcheetah_averagereturn_n15.png)
+![HalfCheetah Average Return](/assets/halfcheetah_averagereturn_n15.png)
 
 An average return of 1430 was reached after 15 iterations.
 
@@ -96,8 +96,8 @@ When ten samples are completed with the MPC, the new data is then aggregated int
 
 1. Anusha Nagabandi et al. “Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning”. [PDF](https://arxiv.org/abs/1708.02596)
 2. Chelsea Finn. “Deep RL Bootcamp Core Lecture 9 Model-based RL”. [Video](https://youtu.be/iC2a7M9voYU) | [Slides](https://drive.google.com/open?id=0BxXI_RttTZAhRTBqQmc5R0pGQlE)
-3. Sergey Levine. “CS294 Learning dynamical systems from data”. [Video](https://www.youtube.com/watch?v=yap_g0d7iBQ&amp;list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&amp;index=10&amp;t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_9_model_based_rl.pdf)
-4. Sergey Levine. “CS294 Learning policies by imitating optimal controllers”. [Video](https://www.youtube.com/watch?v=AwdauFLan7M&amp;list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&amp;index=11&amp;t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_10_imitating_optimal_control.pdf)
-5. Chelsea Finn. “CS294 Advanced model learning and images” [Video](https://www.youtube.com/watch?v=vRkIwM4GktE&amp;list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&amp;index=12&amp;t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/advanced_model_learning.pdf)
-6. Sergey Levine. “CS294 Connection between inference and control” [Video](https://www.youtube.com/watch?v=iOYiPhu5GEk&amp;list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&amp;index=13&amp;t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_11_control_and_inference.pdf)
+3. Sergey Levine. “CS294 Learning dynamical systems from data”. [Video](https://www.youtube.com/watch?v=yap_g0d7iBQ&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=10&t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_9_model_based_rl.pdf)
+4. Sergey Levine. “CS294 Learning policies by imitating optimal controllers”. [Video](https://www.youtube.com/watch?v=AwdauFLan7M&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=11&t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_10_imitating_optimal_control.pdf)
+5. Chelsea Finn. “CS294 Advanced model learning and images” [Video](https://www.youtube.com/watch?v=vRkIwM4GktE&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=12&t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/advanced_model_learning.pdf)
+6. Sergey Levine. “CS294 Connection between inference and control” [Video](https://www.youtube.com/watch?v=iOYiPhu5GEk&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=13&t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_11_control_and_inference.pdf)
 7. CS294 [Model Based RL Project](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/hw4.pdf)

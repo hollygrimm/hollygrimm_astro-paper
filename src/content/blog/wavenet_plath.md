@@ -11,9 +11,9 @@ tags:
   - Audio
   - Audacity
 ogImage: "/sites/default/files/styles/large/public/2018-04/sylvia_plath_generated_waveform_0.png"
-description:
-  Synthesizing Sylvia Plath's voice
+description: Synthesizing Sylvia Plath's voice
 ---
+
 ![Sylvia Plath Generated Waveform](/sites/default/files/styles/large/public/2018-04/sylvia_plath_generated_waveform_0.png)
 
 Using WaveNet, a deep neural network, I was able to synthesize a ten second clip of Sylvia Plath's voice. WaveNet was trained without text sequences, so the generated speech is gibberish:
@@ -36,7 +36,7 @@ I then listened to clips below 30k in file size, and deleted any clips that are 
 
 The batch size was set to 2 for a 2GB GPU. There was a lot of jitter, but the loss continued to descend after 500k steps:
 
-![Loss chart after 529000 steps of training](https://github.com/hollygrimm/wavenet-plath/raw/master/chart_loss_52900_2018-03-29.png)
+![Loss chart after 529000 steps of training](/assets/chart_loss_52900_2018-03-29.png)
 
 ## The Generated Waveform
 

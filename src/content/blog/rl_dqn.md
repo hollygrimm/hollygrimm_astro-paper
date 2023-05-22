@@ -9,17 +9,17 @@ tags:
   - ReinforcementLearning
   - Pong
   - SonicTheHedgehog
-ogImage: "https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw3/charts/pong_5M_rewards20.png" 
-description:
-  Deep Q Networks and Rainbow Algorithm
+ogImage: "/assets/pong_5M_rewards20.png"
+description: Deep Q Networks and Rainbow Algorithm
 ---
+
 ## Deep Q Networks and Rainbow Algorithm
 
 The first part of this week was spent working on homework 3 for CS294 "Using Q-Learning with convolutional neural networks" [4] for playing Atari games, also known as Deep Q Networks (DQN). ([Source on GitHub](https://github.com/hollygrimm/cs294-homework/tree/master/hw3))
 
 Like last week, training was done on Atari Pong. I was able to improve my +6 score using [Policy Gradients](/rl_pg) to receive a +20 reward after 5 million games with DQN:
 
-![Pong 5M 20 rewards](https://raw.githubusercontent.com/hollygrimm/cs294-homework/master/hw3/charts/pong_5M_rewards20.png)
+![Pong 5M 20 rewards](/assets/pong_5M_rewards20.png)
 
 Game Video:
 
@@ -81,7 +81,7 @@ Since we already have two networks, the Q network and Target network, you can us
 
 The advantage value is the difference between the Q(s, a) value and the state value V(s). For an action it's measuring how much worse an action is in comparison to the best action in a state.
 
-With Dueling DQN, you change the architecture of the neural network by splitting it into two separate estimators after convolution.  The first estimator is the state value V(s), a single number. The second estimator outputs one number per action, the advantages. To calculate the Q values, the advantage is summed with the state value and the average value of the advantages is subtracted. [10]
+With Dueling DQN, you change the architecture of the neural network by splitting it into two separate estimators after convolution. The first estimator is the state value V(s), a single number. The second estimator outputs one number per action, the advantages. To calculate the Q values, the advantage is summed with the state value and the average value of the advantages is subtracted. [10]
 
 ## Noisy Nets for Exploration
 
@@ -97,7 +97,7 @@ Takes a single output reward value and replaces it with a distribution of reward
 
 ## References
 
-1. Richard Sutton and Andrew Barto. "Reinforcement Learning: An Introduction". Chapter 16.5:  DQN
+1. Richard Sutton and Andrew Barto. "Reinforcement Learning: An Introduction". Chapter 16.5: DQN
 2. Vlad Mnih. "Deep RL Bootcamp Core Lecture 3 DQN + Variants". [Video](https://www.youtube.com/watch?v=fevMOp5TDQs) | [Slides](https://drive.google.com/file/d/0BxXI_RttTZAhVUhpbDhiSUFFNjg/view)
 3. Vlad Mnih et al. "Human-level control through deep reinforcement learning". [PDF](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)
 4. Sergey Levine. "Advanced Q-learning algorithms". CS294 Fall 2017 Course at Berkeley. [Video](https://www.youtube.com/watch?v=nZXC5OdDfs4&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=8&t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_7_advanced_q_learning.pdf)
