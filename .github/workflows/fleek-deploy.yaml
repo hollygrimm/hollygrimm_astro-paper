@@ -23,4 +23,4 @@ jobs:
           ipfscid=$(echo "$output" | grep "> Site IPFS CID:" | awk '{print $5}')
           echo "New IPFS CID is: $ipfscid"
       - name: Update IPNS Record with new IPFS CID
-        run: fleek ipns publish --name k51qzi5uqu5dk29co17qlb1kzb58fsfv1q0sqfpjc4c8oh6lxldd46s1gp3rnv --hash "$ipfscid"
+        run: fleek ipns publish --name k51qzi5uqu5dk29co17qlb1kzb58fsfv1q0sqfpjc4c8oh6lxldd46s1gp3rnv --hash $ipfscid
