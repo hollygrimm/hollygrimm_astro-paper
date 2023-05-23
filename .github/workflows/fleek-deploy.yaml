@@ -22,6 +22,5 @@ jobs:
         run: |
           output=$(fleek sites deploy)
           echo "$output" | grep "> Site IPFS CID:" | awk '{print "IPFSCID="$5}' >> $GITHUB_OUTPUT
-          echo "New IPFS CID is: ${{ steps.build-deploy.outputs.IPFSCID }}"
       - name: Update IPNS Record with new IPFS CID
         run: fleek ipns publish --name k51qzi5uqu5dk29co17qlb1kzb58fsfv1q0sqfpjc4c8oh6lxldd46s1gp3rnv --hash ${{ steps.build-deploy.outputs.IPFSCID }}

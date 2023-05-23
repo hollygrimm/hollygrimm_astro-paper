@@ -7,9 +7,9 @@ draft: false
 tags:
   - gpt-3
 ogImage: "/sites/default/files/inline-images/gpt3.jpg"
-description:
-  Where I clarify my own thinking about GPT-3 outputs and why I think it’s revolutionary.
+description: Where I clarify my own thinking about GPT-3 outputs and why I think it’s revolutionary.
 ---
+
 Where I clarify my own thinking about GPT-3 outputs and why I think it’s revolutionary.
 
 ![Landscape Construction](/sites/default/files/inline-images/gpt3.jpg)
@@ -42,7 +42,7 @@ K Allado McDowell used our GPT-3 toolchain to write [Pharmako-AI](https://ignota
 
 This sounds like GPT-3 is a believer in CosmoTechnics defined as “the unification of the cosmos and the moral through technical activities, whether craft-making or art-making” from Yuk Hui’s [Cosmotechnics as Cosmopolitics essay](https://www.e-flux.com/journal/86/161887/cosmotechnics-as-cosmopolitics/) (2017).
 
-![Aikphrasis Project](/sites/default/files/inline-images/aikphrasis_2048.jpg)
+![Aikphrasis Project](/sites/default/files/inline-images/aikphrasis.jpg)
 
 In early October, I worked with 18 artists on the [Aikphrasis project](/posts/aikphrasisproject). I acted as a co-curator working with GPT-3 to tailor ekphrastic phrases specific to an artist’s practice. One person couldn’t believe their phrase was computer generated, another thought that GPT-3 had definitely trained on his blog as the phrase was exactly what he aspires to do. Another artist was brought to tears by the words generated. Many of the artists were “absolutely inspired” by the text and you can see their amazing creations in painting, poetry, sculpture, video, and theatre.
 
@@ -59,7 +59,7 @@ When you first learn about neural networks, you find that you can only approxima
 
 The XOR is a simple two-layer illustration of the [Universal approximation theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem) that states that any mathematical function can be replicated by a neural network with enough appropriate weights.
 
-The notion that everything in the universe can be reduced to probabilities was explored in the introduction of [30 Years after Les Immatériaux:  Art, Science, and Theory](https://meson.press/wp-content/uploads/2015/03/9783957960313-30-Years-Les-Immateriaux.pdf) (Hui and Broeckmann, 2015):
+The notion that everything in the universe can be reduced to probabilities was explored in the introduction of [30 Years after Les Immatériaux: Art, Science, and Theory](https://meson.press/wp-content/uploads/2015/03/9783957960313-30-Years-Les-Immateriaux.pdf) (Hui and Broeckmann, 2015):
 
 > In quantum mechanics, Heisenberg’s uncertainty principle claims that we cannot know the location and speed of a particle simultaneously. Speed and location are two important concepts in classical mechanics, since it is the displacement of location and duration that gives us velocity and acceleration.The presence of particles can now only be imagined in terms of probabilities. This involves both a mathematical reduction as well as a dematerialisation of objects in our universe, including stars, galaxies, bodies and mind. For example, the first seconds of the birth of the universe are represented by means of a quantifiable model with which we can explain the genesis of the cosmos, as if there were human subjects who witnessed the process.
 

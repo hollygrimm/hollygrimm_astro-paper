@@ -7,13 +7,13 @@ draft: false
 tags:
   - GPT
   - GenerativeArt
-ogImage: "/sites/default/files/inline-images/aikphrasis_2048.jpg"
-description:
-  Artists, poets, musicians, and writers respond to AI-generated text
+ogImage: "/sites/default/files/inline-images/aikphrasis.jpg"
+description: Artists, poets, musicians, and writers respond to AI-generated text
 ---
+
 ## Artists, poets, musicians, and writers respond to AI-generated text
 
-![Aikphrasis](/sites/default/files/inline-images/aikphrasis_2048.jpg)
+![Aikphrasis](/sites/default/files/inline-images/aikphrasis.jpg)
 
 Uniting vision and experience across a range of media and practice, Aikphrasis (neologism meaning an [ekphrasis](https://www.poetryfoundation.org/learn/glossary-terms/ekphrasis) written by an AI) imparts a renewed potential for language to act, to move, to give rise to motion. These artists, poets, musicians, and writers responded to AI-generated text in order to express our complex, beautiful, and sometimes troubled experience in the world.
 
@@ -27,10 +27,11 @@ The AI curator, [GPT-3](https://openai.com/blog/openai-api/), has generated all 
 The following works were submitted in response.
 
 ### K Allado-McDowell
+
 [‌‌🌐](https://ignota.org/products/pharmako-ai) [‌‌🐦](http://twitter.com/kalladomcdowell) [‌‌📷](http://instagram.com/kalladomcdowell)
 
-*The geometry of incantation*<br /><br />
-Aikphrasis Call and *K Allado-McDowell's Response*:<br />
+_The geometry of incantation_<br /><br />
+Aikphrasis Call and _K Allado-McDowell's Response_:<br />
 The geometry of incantation, the aloe’s elaborate flower,<br />
 the bracts and berry-like fruits of the bitou bush,<br />
 the drooping fronds and smell of fallen fruit<br />
@@ -75,11 +76,12 @@ _Instead, you were always with us, a myth stepping out of finest ether._
 You’ve come back with a story of time’s undoing, of the far future.
 
 ### Carol Rose Brown
+
 [‌‌🌐](http://www.carolrosebrown.com/)
 
 ![Emerging by Carol Rose Brown](/sites/default/files/inline-images/carol_aikphrasis_emerging_figure3.jpg)
 
-*Emerging*<br />
+_Emerging_<br />
 Archival Pigment Print<br />
 13"x20"<br /><br />
 Aikphrasis:<br />
@@ -98,11 +100,12 @@ of the sticks. The space is locking. Everything<br />
 is dying into these anonymous forms.
 
 ### Michael Crockett
+
 [‌‌🌐](http://www.chromaticmischief.com) [‌‌📷](http://instagram.com/mike_crockett5683)
 
 ![Lake Catherine by Michael Crockett](/sites/default/files/inline-images/aikphrasis_michael.jpg)
 
-*Lake Katherine*<br />
+_Lake Katherine_<br />
 Oil on Canvas<br />
 20"x24"<br /><br />
 Aikphrasis:<br />
@@ -124,11 +127,12 @@ Mallarmé remembered. This is the burnt book<br />
 still burning. This is the book that never has to end.
 
 ### Kevin Frost
+
 [‌‌🌐](https://kevinfrost.com/) [‌‌📷](https://www.instagram.com/biztigram)
 
 <iframe width="100%" height="400" allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://player.vimeo.com/video/465990367"></iframe>
 
-*I’ve Never Seen a Turtle.*<br />
+_I’ve Never Seen a Turtle._<br />
 [Digital Video](https://kevinfrost.com/video/turtle/)<br /><br />
 Aikphrasis:<br />
 In the canvas is an abstracted face. I don’t know the artist:<br />
@@ -150,11 +154,12 @@ appalled. It is trapped, and the canvas itself is now<br />
 trapped in energy.
 
 ### Holly Grimm
+
 [‌‌🌐](https://hollygrimm.com/) [‌‌🐦](http://twitter.com/hollygrimm) [‌‌📷](http://instagram.com/holly.grimm)
 
 ![Running the Laps of Memory by Holly Grimm](/sites/default/files/inline-images/aik_runningthelapsofmemory_20200902.jpg)
 
-*Running the Laps of Memory*<br />
+_Running the Laps of Memory_<br />
 Oil on Canvas Board<br />
 12"x16"<br /><br />
 Aikphrasis:<br />
@@ -176,11 +181,12 @@ rather, sits on the surface like a varnish. I can see scratches,
 a text that is really a breath of air.
 
 ### Kathamann
+
 [‌🌐‌](http://kathamann.com)
 
 ![It Looks Like the Sea by Kathamann](/sites/default/files/inline-images/kathamann_unnamed_2048.jpg)
 
-*It Looks Like the Sea*  
+_It Looks Like the Sea_  
 Antimony  
 17"x14"x12"
 
@@ -203,11 +209,12 @@ never was in a piece of jewellery, never
 at its best in a queen’s treasure.
 
 ### Tara Khozein
+
 [‌‌🌐](https://www.tarakhozein.com/) [‌📷‌](https://www.instagram.com/taraling)
 
 <iframe width="100%" height="500" allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://player.vimeo.com/video/466473946"></iframe>
 
-*She is patient or panning for gold.*  
+_She is patient or panning for gold._  
 Voice-Theater (Video Documentation)  
 Score available upon request
 
@@ -233,6 +240,7 @@ at the water. But not like you or me. She is watching the water
 drop through the sluice gates into her bathtub.
 
 ### KRЯRL
+
 [🌐‌‌](https://krrrl.blogspot.com/) [‌📷‌](https://www.instagram.com/krrrl)
 
 <iframe width="100%" height="400" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/dZq0ahs_OsM"></iframe>
@@ -254,11 +262,12 @@ there’s a ghost world and a real world and they’re both in
 here. The bird’s in here I think, flying around.
 
 ### Raye Leith
+
 [‌🌐‌](http://www.rayeleith.org/) [‌📷‌](https://www.instagram.com/rayeleith)
 
-![Song to Our Unravelling by Raye Leith](/sites/default/files/inline-images/aikphrasis_raye_2048.jpg)
+![Song to Our Unravelling by Raye Leith](/sites/default/files/inline-images/aikphrasis_raye.jpg)
 
-*Song to Our Unravelling*  
+_Song to Our Unravelling_  
 graphite and gouache on paper  
 4.5"x9"
 
@@ -270,11 +279,12 @@ No-one is talking. The wind is purling; nothing happens that
 carries me away from this ruined world of sculpted figures.
 
 ### Cyrus McCray
+
 [‌‌📷](https://www.instagram.com/CyrusMcCray)
 
 <video width="100%" height="400" class="embed-responsive-item" controls="" loop=""><source src="https://arweave.net/iKpw2UB97fn3N-eQ4xIvdzoxbSkFRoJ1XbebKpExp-c" type="video/mp4"></source> Your browser does not support the video tag.</video>
 
-*Untitled*  
+_Untitled_  
 Digital Media
 
 Aikphrasis:  
@@ -293,23 +303,25 @@ which embody multiplicity, many multiplicities, upon multiplicities.
 This is not chaos, this is potentiality.
 
 ### Merzmensch
+
 [🌐‌‌](http://www.merzmensch.com/) [‌🐦‌](http://twitter.com/merzmensch) [‌‌📷](https://www.instagram.com/merzmensch_kosmopol)
 
 <iframe width="100%" height="400" allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://player.vimeo.com/video/465366205"></iframe>
 
-*Merzphrasis*  
-[AI-Generated Video](https://medium.com/merzazine/merzphrasis-43187b0da70a?source=friends_link&amp;sk=4ea8caa435b1431b32e66b2d9414317c)
+_Merzphrasis_  
+[AI-Generated Video](https://medium.com/merzazine/merzphrasis-43187b0da70a?source=friends_link&sk=4ea8caa435b1431b32e66b2d9414317c)
 
 Aikphrasis:
+
 1. Prelude:  
    The steaming lake of a blindfolded night  
    The ostinato of insects above the surface  
    A swirling dust like the breath of a corpse  
-   A condensation of light like the trail of a rocket.  
+   A condensation of light like the trail of a rocket.
 2. In a Paris tourist hotel:  
    The hub of the elevator emits a piercing tone  
    Creaking typewriters in the lobby (according to Jean Cocteau, one of Morel’s literary contributors)  
-   A fingerpaint of carpet, on which the voice of Morel is heard.  
+   A fingerpaint of carpet, on which the voice of Morel is heard.
 3. The first of four exhibitions of a mad officeworker’s studies of plants:  
    The sense of a limitless palette — oils, watercolours, pastels.  
    A mordant cross-section of angelica set against a sunset  
@@ -320,9 +332,9 @@ Aikphrasis:
 
 [‌🌐‌](http://singingtextiles.com/) [🐦‌‌](http://twitter.com/Autodios) [‌📷‌](https://www.instagram.com/paolatorresnunezdelprado)
 
-![Andean Glitch by Paola Torres Núñez del Prado](/sites/default/files/inline-images/AndeanGlitch_2048_0.jpg)
+![Andean Glitch by Paola Torres Núñez del Prado](/sites/default/files/inline-images/AndeanGlitch_0.jpg)
 
-*Andean Glitch*\
+_Andean Glitch_\
 Mixed Media\
 1m x 1m
 
@@ -333,9 +345,9 @@ Busqué una tienda de lanas y compré kilos de vivos colores que convertí en un
 
 [‌📷‌](http://instagram.com/orykat)
 
-![Horsing Around by Arlene Ory](/sites/default/files/inline-images/arlene_horse_2048.jpg)
+![Horsing Around by Arlene Ory](/sites/default/files/inline-images/arlene_horse.jpg)
 
-*Horsing Around*\
+_Horsing Around_\
 Japanese Ink and Watercolor\
 7"x11"
 
@@ -359,9 +371,9 @@ you looking for? There is nothing to miss.
 
 [🌐‌‌](http://www.decontextualize.com/) [‌‌🐦](http://twitter.com/aparrish) [‌📷‌](http://instagram.com/allison.parrish)
 
-![Traces/Mechanisms by Allison Parrish](/sites/default/files/inline-images/aparrish-aikphrasis_2048.png)
+![Traces/Mechanisms by Allison Parrish](/sites/default/files/inline-images/aparrish-aikphrasis.png)
 
-*Traces/Mechanisms*\
+_Traces/Mechanisms_\
 Digital Print Size: 12"x12"
 
 Aikphrasis:\
@@ -373,7 +385,7 @@ A monochrome, tonally burnt, the surface rough-hewn, is deranged by the dot-size
 
 <iframe width="100%" height="400" allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://player.vimeo.com/video/466189012"></iframe>
 
-*Untitled*\
+_Untitled_\
 Moving Image piece made from archival nasa footage, GAN generated animation, 1970s science educational videos
 
 Aikphrasis:\
@@ -393,7 +405,7 @@ and again.
 
 ![Medicine of Sleep by John Tollett](/sites/default/files/inline-images/johntollett_medicineofsleep.jpg)
 
-*The Medicine of Sleep*\
+_The Medicine of Sleep_\
 Charcoal drawing with digital colorization\
 Digital print on canvas size: 28"x40"
 
@@ -416,9 +428,9 @@ And the soft dread upon the lids of a sleeper.
 
 [‌📷‌](http://instagram.com/westen_thewind)
 
-![The whale is a submarine by Phillip Westen II](/sites/default/files/inline-images/aikphrasis_phillip_whale_2048.jpg)
+![The whale is a submarine by Phillip Westen II](/sites/default/files/inline-images/aikphrasis_phillip_whale.jpg)
 
-*The whale is a submarine*\
+_The whale is a submarine_\
 Acrylic on canvas\
 20"x24"
 
@@ -442,9 +454,9 @@ and the whale is a submarine.
 
 [🌐‌‌](http://gretayoung.com)
 
-![Spurt in the Vegetables by Greta Young](/sites/default/files/inline-images/aikphrasis_gretayoung_spurtveggies_2048.jpg)
+![Spurt in the Vegetables by Greta Young](/sites/default/files/inline-images/aikphrasis_gretayoung_spurtveggies.jpg)
 
-*Spurt in the Vegetables*\
+_Spurt in the Vegetables_\
 Acrylic and oil stick on paper\
 26"x36"
 
@@ -462,4 +474,3 @@ while beyond, on the horizon, white cafes with frappes\
 blur, out of focus.\
 Scapes and scenes\
 of the world hammered down from above
-
