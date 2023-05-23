@@ -1,19 +1,16 @@
 # Holly Grimm
 
-# TODO:
+Personal website built with Astro and deployed to IPFS via Fleek. Uses the Astro Paper theme.
 
-- [ ] add custom domain https://docs.fleek.xyz/services/domains/
-- [ ] verify Github workflow is working
+## Add Fleek
 
-# Add Fleek
-
-## Install Fleek CLI Globally
+### Install Fleek CLI Globally
 
 ```bash
 npm install -g @fleekxyz/cli
 ```
 
-## Create a fleek.json config file:
+### Create a fleek.json config file:
 
 ```bash
 fleek sites init
@@ -22,23 +19,25 @@ fleek sites init
 fleek will authenticate via the browser and ask you the following:
 
 ✔ enter project name … hollygrimm
+
 ✔ enter site name … hollygrimm
+
 ✔ Specify the dist directory from where the site will be uploaded from … dist
+
 ✔ Do you want to include the optional "build" command? … yes
+
 ✔ Specify `build` command: … npm run build
 
-## Deploy
+### Deploy
 
 ```bash
 fleek sites deploy
 ```
 
-Result:
+> Site IPFS CID: Qmbhqvd14XKWjN9S81W3muNtkPSni2yrknYBHeXJv191Wq
 
-Site IPFS CID: QmQSGAN1jjKFasmoDukH3vB7NR2VQG8bMJpCuDpvmdTTcp
-
-You can visit through the gateway:
-https://ipfs.io/ipfs/QmQSGAN1jjKFasmoDukH3vB7NR2VQG8bMJpCuDpvmdTTcp
+> You can visit through the gateway:
+> https://ipfs.io/ipfs/Qmbhqvd14XKWjN9S81W3muNtkPSni2yrknYBHeXJv191Wq
 
 Set up IPNS:
 
@@ -52,14 +51,22 @@ fleek ipns create
 Publish the IPNS after copying the ipfsCid as the --hash
 
 ```bash
-fleek ipns publish --name k51qzi5uqu5dk29co17qlb1kzb58fsfv1q0sqfpjc4c8oh6lxldd46s1gp3rnv --hash QmQSGAN1jjKFasmoDukH3vB7NR2VQG8bMJpCuDpvmdTTcp
+fleek ipns publish --name k51qzi5uqu5dk29co17qlb1kzb58fsfv1q0sqfpjc4c8oh6lxldd46s1gp3rnv --hash Qmbhqvd14XKWjN9S81W3muNtkPSni2yrknYBHeXJv191Wq
 ```
 
 After 1 to 30 minutes this should work:
 
 https://ipfs.io/ipns/k51qzi5uqu5dk29co17qlb1kzb58fsfv1q0sqfpjc4c8oh6lxldd46s1gp3rnv
 
-## Update ENS Record to point to new IPNS Hash:
+### When new site is deployed
+
+get new IPFS CID and publish to IPNS
+
+```bash
+fleek ipns publish --name k51qzi5uqu5dk29co17qlb1kzb58fsfv1q0sqfpjc4c8oh6lxldd46s1gp3rnv --hash Qmbhqvd14XKWjN9S81W3muNtkPSni2yrknYBHeXJv191Wq
+```
+
+### Update ENS Record to point to new IPNS Hash:
 
 https://app.ens.domains/
 
@@ -68,7 +75,7 @@ Save and pay for the transaction
 
 open https://hollyr.eth.limo/
 
-## Setup up CI
+### Setup up CI
 
 ```bash
  fleek sites ci
@@ -76,11 +83,35 @@ open https://hollyr.eth.limo/
 
 Select GitHub Actions
 ✔ Would you like to run an install command? This will be executed before the build command. … yes
+
 ✔ Do you want to specify the install command? If not, one will be generated based on your lockfile. … no
+
 ✔ We've generated the following install command based on your lockfile: npm install. Is this correct? … yes
+
 ✔ Workflow config will be saved in: /mnt/docs/projects/hollygrimm_astro-paper/.github/workflows/fleek-deploy.yaml. Would you like to specify a different path? … no
 
 Copy the resulting secrets to the Github repository settings.
+
+### Fleek IDs
+
+Site ID: `fleek sites list` found in fleek.json
+
+Project ID: `fleek sites ci` generates the secret `FLEEK_PROJECT_ID`
+
+### Set up DNS
+
+```bash
+fleek domains create
+```
+
+enter domain name `hollygrimm.com`
+update CNAME record in Cloudflare to point to the resulting pull zone
+
+also add a cname for www to the same pull zone
+
+```bash
+fleek domains detail hollygrimm.com
+```
 
 # original readme below:
 
