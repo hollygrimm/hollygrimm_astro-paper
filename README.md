@@ -39,10 +39,10 @@ fleek will authenticate via the browser and ask you the following:
 fleek sites deploy
 ```
 
-> Site IPFS CID: Qmbhqvd14XKWjN9S81W3muNtkPSni2yrknYBHeXJv191Wq
+> Site IPFS CID: QmWoiwy6WJ8gsPkCo94ePrB59sp9LcsTDfQmATSx3bJUin
 
 > You can visit through the gateway:
-> https://ipfs.io/ipfs/Qmbhqvd14XKWjN9S81W3muNtkPSni2yrknYBHeXJv191Wq
+> https://ipfs.io/ipfs/QmWoiwy6WJ8gsPkCo94ePrB59sp9LcsTDfQmATSx3bJUin
 
 Set up IPNS:
 
@@ -56,7 +56,7 @@ fleek ipns create
 Publish the IPNS after copying the ipfsCid as the --hash
 
 ```bash
-fleek ipns publish --name k51qzi5uqu5dk29co17qlb1kzb58fsfv1q0sqfpjc4c8oh6lxldd46s1gp3rnv --hash Qmbhqvd14XKWjN9S81W3muNtkPSni2yrknYBHeXJv191Wq
+fleek ipns publish --name k51qzi5uqu5dk29co17qlb1kzb58fsfv1q0sqfpjc4c8oh6lxldd46s1gp3rnv --hash QmWoiwy6WJ8gsPkCo94ePrB59sp9LcsTDfQmATSx3bJUin
 ```
 
 After 1 to 30 minutes this should work:
