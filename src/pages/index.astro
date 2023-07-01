@@ -23,24 +23,21 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
       <p>
         <LinkButton
           className="text-skin-accent hover:underline"
-          href="https://bucketprints.blogspot.com/"
+          href="https://madridroadrunner.com/"
         >
-        8x8 Exhibition Exchange
+          Life Drawing Exhibition
         </LinkButton>
-Group Exhibition
-July, 2022
-Axle Contemporary - Santa Fe, NM
+        Group Exhibition July 29-30, 2023 Roadrunner Gallery and Studio - Madrid,
+        NM
       </p>
       <p>
         <LinkButton
           className="text-skin-accent hover:underline"
-          href="https://fargfabriken.se/en/pa-gang/sentient-machines/"
+          href="https://www.northfourthnm.org/"
         >
-        Sentient Machines?
+          Bucket Exhibitions
         </LinkButton>
-Group Exhibition
-Aug 11-21, 2022
-Färgfabriken - Stockholm, Sweden
+        Group Exhibition June 1-30, 2023 North Fourth Art Center - Albuquerque, NM
       </p>
     </section>
 
@@ -101,7 +98,7 @@ Färgfabriken - Stockholm, Sweden
 <style>
   /* ===== Hero Section ===== */
   #hero {
-    @apply pt-8 pb-6;
+    @apply pb-6 pt-8;
   }
   #hero h1 {
     @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
@@ -119,13 +116,13 @@ Färgfabriken - Stockholm, Sweden
     @apply mt-4 flex flex-col sm:flex-row sm:items-center;
   }
   .social-links {
-    @apply mr-2 mb-1 whitespace-nowrap sm:mb-0;
+    @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
   }
 
   /* ===== Featured & Recent Posts Sections ===== */
   #featured,
   #recent-posts {
-    @apply pt-12 pb-6;
+    @apply pb-6 pt-12;
   }
   #featured h2,
   #recent-posts h2 {

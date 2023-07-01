@@ -2,6 +2,7 @@
 layout: ../layouts/BioLayout.astro
 title: "Art Bio"
 ---
+
 **Holly Grimm**
 
 I am Diné (Navajo). I am of the Bit'ahnii (Within His Cover) people and born for Bilagáana (Anglo). My maternal grandfather’s clan is Tachii'nii (Red Running Into the Water), and my paternal grandfather’s clan is Bilagáana (Anglo).
@@ -24,9 +25,13 @@ Additionally I'm interested in using Machine Learning to create works of art. I'
 
 **Group Exhibitions**
 
-2022 Färgfabriken -  Stockholm, Sweden, [Sentient Machines?](https://fargfabriken.se/en/pa-gang/sentient-machines/)
+2023 Roadrunner Gallery and Studio - Madrid, NM, [Life Drawing Exhibition](https://madridroadrunner.com/)
 
-2022 Axle Contemporary -  Santa Fe, NM, [8x8 Exhibition Exchange](https://bucketprints.blogspot.com/)
+2023 North Fourth Art Center - Albuquerque, NM, [Bucket Exhibitions](https://www.northfourthnm.org/)
+
+2022 Färgfabriken - Stockholm, Sweden, [Sentient Machines?](https://fargfabriken.se/en/pa-gang/sentient-machines/)
+
+2022 Axle Contemporary - Santa Fe, NM, [8x8 Exhibition Exchange](https://bucketprints.blogspot.com/)
 
 2021 Terminal 5 - NYC, "Dreamverse"
 
@@ -161,4 +166,3 @@ Additionally I'm interested in using Machine Learning to create works of art. I'
 1994 Accademia Di Belle Arti - Florence, Italy, Stanford Overseas in Italy Program
 
 1988 The School of the Art Institute of Chicago - Chicago, IL, Early College Program Summer Institute
-
