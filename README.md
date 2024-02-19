@@ -118,6 +118,14 @@ also add a cname for www to the same pull zone
 fleek domains detail hollygrimm.com
 ```
 
+## Update Website
+
+```bash
+fleek sites deploy
+# get new IPFS CID from output and publish to IPNS
+fleek ipns publish --name k51qzi5uqu5dk29co17qlb1kzb58fsfv1q0sqfpjc4c8oh6lxldd46s1gp3rnv --hash <SITE IPFS CID>
+```
+
 # original readme below:
 
 # AstroPaper 📄
