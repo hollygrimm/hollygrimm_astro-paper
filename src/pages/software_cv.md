@@ -5,8 +5,7 @@ title: "CV"
 
 ## Objective
 
-Software Engineer with 25+ years of development experience. She has built a variety of machine learning models for image, music, voice, and text generation, currently building at the intersection of
-climate, blockchain, and machine learning. She is a member of the Active Inference Institute's Scientific Advisory Board, member of Celo Network's Climate Collective, co-leader of KERNEL's Regeneration Guild and an active contributor to two decentralized autonomous organizations (DAOs): ReFi DAO for regenerative climate projects, pr1s0n art for inmate art, and as a peer mentor for Gitcoin KERNEL.
+ML and Blockchain Engineer with 25+ years of development experience. She has built a variety of machine learning models for image, music, voice, and text generation. She is a member of the Active Inference Institute's Scientific Advisory Board, member of Celo Network's Climate Collective, co-leader of KERNEL's Regeneration Guild and an active contributor to two decentralized autonomous organizations (DAOs): ReFi DAO for regenerative climate projects, pr1s0n art for inmate art, and as a peer mentor for Gitcoin KERNEL.
 
 ## Education
 

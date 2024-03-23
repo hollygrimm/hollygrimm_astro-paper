@@ -1,9 +1,9 @@
 {
   "sites": [
     {
-      "slug": "panicky-better-soccer",
+      "slug": "wide-wall-puny",
       "distDir": "dist",
-      "buildCommand": "npm run build"
+      "buildCommand": "npm install && npm run build"
     }
   ]
 }
