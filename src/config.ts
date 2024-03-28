@@ -3,9 +3,9 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://hollygrimm.com/",
   author: "Holly Grimm",
-  desc: "Personal website.",
+  desc: "Artist and Software Engineer",
   title: "Holly Grimm",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "og.jpg",
   lightAndDarkMode: true,
   postPerPage: 5,
 };
