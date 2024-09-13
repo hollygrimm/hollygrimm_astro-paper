@@ -33,12 +33,27 @@ Login to https://app.fleek.xyz/ with the wallet that owns your ENS name.
 - Add DNS
 - Add ENS
 
-## Use CLI to deploy
+## Use Web App to Deploy
+
+Set up the following:
+```
+Framework: Astro
+Publish directory: dist
+Build command: npm install && npm run build
+Base directory: ./
+Production branch: main
+Docker image: fleek/node:lts
+Build previews for all pull requests
+```
+
+Go to https://app.fleek.xyz/ and click `Redeploy` button
+
+## Use CLI to Deploy
 
 ### Install Fleek CLI Globally
 
 ```bash
-npm install -g @fleekxyz/cli
+npm install -g @fleek-platform/cli
 ```
 
 ### Login
