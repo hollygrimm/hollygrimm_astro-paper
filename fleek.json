@@ -1,0 +1,6 @@
+{
+  "id": "clhxwoebi0000kv08dyi6wzle",
+  "name": "hollygrimm",
+  "distDir": "dist",
+  "buildCommand": "npm run build"
+}
