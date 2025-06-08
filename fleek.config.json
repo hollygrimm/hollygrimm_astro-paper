@@ -1,9 +1,0 @@
-{
-  "sites": [
-    {
-      "slug": "wide-wall-puny",
-      "distDir": "dist",
-      "buildCommand": "npm install && npm run build"
-    }
-  ]
-}
