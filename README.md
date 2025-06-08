@@ -20,6 +20,12 @@ pnpm run build
 pnpm run preview
 ```
 
+## Copy Dist to Server
+```bash
+cd dist
+scp -r * <USERNAME>@<SERVER>:/home/hollygrimm.com
+```
+
 -----
 Original README
 
