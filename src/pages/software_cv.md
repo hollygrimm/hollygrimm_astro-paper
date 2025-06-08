@@ -41,11 +41,21 @@ ML and Blockchain Engineer with 25+ years of development experience. She has bui
 
 ## Employment
 
-### Sustia LLC, remote 2024 – present
+### Abundant Intelligences, remote 2025 - present
 
-Blockchain and ML Developer
+Associate Director - Emerging AI Technologies
 
-- Rust, Solidity, SurrealDB
+Leading AI infrastructure strategy for a groundbreaking 6-year research partnership exploring the integration of Indigenous Knowledges and Artificial Intelligence systems. Working with an incredible international team of 48+ researchers across 13 universities and 8 community organizations to develop cutting-edge AI technology infrastructure to support collaborative research.
+
+- Rust, Python, Docker, SurrealDB
+- Ollama, MCP, Airtable, n8n
+
+### Lilypad Tech, remote 2024-2025
+
+Senior Protocol and Blockchain Engineer
+
+- Rust, NVML, Solidity, Python, Docker, Go
+- Ollama, MCP, LLM Tools
 
 ### Algovera, remote 2023 – 2024
 
