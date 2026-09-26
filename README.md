@@ -36,14 +36,15 @@ pnpm run preview
 
 ```bash
 # dry run
-rsync -avz --delete --dry-run dist/ <USERNAME>@<SERVER>:/home/hollygrimm.com/
+rsync -avz --delete --filter 'P /video/***' --dry-run dist/ <USERNAME>@<SERVER>:/home/hollygrimm.com/
 # then for real
-rsync -avz --delete dist/ <USERNAME>@<SERVER>:/home/hollygrimm.com/
+rsync -avz --delete --filter 'P /video/***' dist/ <USERNAME>@<SERVER>:/home/hollygrimm.com/
 ```
 
 - Run from the repo root after `pnpm run build`.
 - Keep the trailing slash on `dist/` so its contents (not the folder) are copied.
-- `--delete` removes server files that aren't in `dist/`. This clears out old content-hashed assets (`_astro/`, `pagefind/`) from previous builds, but also anything added to the web root by hand. Check the dry run for deletions, and protect such paths with e.g. `--exclude '.well-known/'`.
+- `--delete` removes server files that aren't in `dist/`. This clears out old content-hashed assets (`_astro/`, `pagefind/`) from previous builds, but also anything added to the web root by hand. Check the dry run for deletions, and protect such paths with e.g. `--filter 'P /.well-known/***'`.
+- Videos live in `public/video/`, which is gitignored (too large for the repo) and deployed only via rsync. `--filter 'P /video/***'` protects them on the server from `--delete`, so deploying from a checkout without the videos won't remove them. Unlike `--exclude`, it still uploads any videos present locally. The `***` matters: `P video/` alone protects only the directory, not the files in it. Old videos are never removed automatically; delete them on the server by hand.
 
 ---
 
