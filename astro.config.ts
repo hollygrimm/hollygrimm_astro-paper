@@ -1,4 +1,5 @@
 import { defineConfig, envField } from "astro/config";
+import { unified } from "@astrojs/markdown-remark";
 import tailwindcss from "@tailwindcss/vite";
 import sitemap from "@astrojs/sitemap";
 import remarkToc from "remark-toc";
@@ -8,13 +9,21 @@ import { SITE } from "./src/config";
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
+  // Astro 7 defaults to "jsx" whitespace rules; keep HTML-aware compression
+  compressHTML: true,
   integrations: [
     sitemap({
       filter: page => SITE.showArchives || !page.endsWith("/archives"),
     }),
   ],
   markdown: {
-    remarkPlugins: [remarkToc, [remarkCollapse, { test: "Table of contents" }]],
+    // Keep the remark/rehype pipeline so remark plugins continue to work
+    processor: unified({
+      remarkPlugins: [
+        remarkToc,
+        [remarkCollapse, { test: "Table of contents" }],
+      ],
+    }),
     shikiConfig: {
       // For more themes, visit https://shiki.style/themes
       themes: { light: "min-light", dark: "night-owl" },
@@ -30,7 +39,8 @@ export default defineConfig({
   image: {
     // Used for all Markdown images; not configurable per-image
     // Used for all `<Image />` and `<Picture />` components unless overridden with a prop
-    experimentalLayout: "constrained",
+    layout: "constrained",
+    responsiveStyles: true,
   },
   env: {
     schema: {
@@ -40,9 +50,5 @@ export default defineConfig({
         optional: true,
       }),
     },
-  },
-  experimental: {
-    responsiveImages: true,
-    preserveScriptOrder: true,
   },
 });
