@@ -26,3 +26,6 @@ pnpm-debug.log*
 # pagefind
 
 public/pagefind
+
+# large media deployed via rsync, not tracked
+public/video/
