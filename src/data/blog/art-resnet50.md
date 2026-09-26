@@ -10,9 +10,9 @@ tags:
   - GenerativeArt
   - ArtCompositionAttributesNetwork
 ogImage: "../../sites/default/files/inline-images/resnet50block_merge.png"
-description:
-  Finetuning ResNet50 for Art Composition Attributes
+description: Finetuning ResNet50 for Art Composition Attributes
 ---
+
 ## Finetuning ResNet50 for Art Composition Attributes
 
 My Deep CNN for learning painting composition attributes is based on the paper, [_Learning Photography Aesthetics with Deep CNNs_](https://arxiv.org/pdf/1707.03981.pdf) by Malu et al. For photography, they are training on the aesthetics and attribute database (AADB) which has the following attributes: Balancing Element, Content, Color Harmony, Depth of Field, Light, Object Emphasis, Rule of Thirds, and Vivid Color. The photography principles are quite different from the painting attributes that I proposed [last week](/gen-art/attributes).

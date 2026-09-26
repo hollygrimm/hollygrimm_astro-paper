@@ -2,6 +2,7 @@
 layout: ../layouts/LifeDrawingLayout.astro
 title: "Life Drawing"
 ---
+
 Life Drawing - Apr 12, 2016 #1
 ![Life Drawing - Apr 12, 2016 #1](../sites/default/files/styles/large/public/2017-06/ld_2016-04-12_01_1080.jpg)
 

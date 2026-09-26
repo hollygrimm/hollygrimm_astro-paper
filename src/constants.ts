@@ -22,9 +22,7 @@ export const SOCIALS: Social[] = [
     href: "https://www.linkedin.com/in/hollygrimm",
     linkTitle: `${SITE.title} on LinkedIn`,
     icon: IconLinkedin,
-  }
+  },
 ] as const;
 
-export const SHARE_LINKS: Social[] = [
-
-] as const;
+export const SHARE_LINKS: Social[] = [] as const;

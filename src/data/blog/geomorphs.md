@@ -9,9 +9,9 @@ tags:
   - StyleGAN2
   - GenerativeArt
 ogImage: "../../sites/default/files/inline-images/seed0727.png"
-description:
-  Planet Artist in Residence
+description: Planet Artist in Residence
 ---
+
 ## GeoMorphs
 
 ![GeoMorph](../../sites/default/files/inline-images/seed0727.png)
@@ -27,19 +27,19 @@ If you are interested, I would highly recommend applying to their [Artist in Res
 After I trained an initial model with a few thousand satellite images, I showed the Planeteers my results. Dr. Joe Kington then provided me with 190,000 Planet satellite images that were 1024x1024 in size. Planet runs a classifier originally written by [Kat Scott [twitter.com]](https://twitter.com/kscottz) on every scene they ingest. Categories are then applied to each scene based on histogram and color derived features. He selected scenes with the "interesting" class defined by scenes that were liked/favorited using Planet's internal tools. Here are some sample images:
 
 ![Planet Labs Dataset](../../sites/default/files/inline-images/geomorphs_orig_ds.jpg)
-*Sample images from Planet's 1024x1024 Dataset*
+_Sample images from Planet's 1024x1024 Dataset_
 
 ## Stylegan2-ada Results
 
 ![Results from StyleGAN2-ada](../../sites/default/files/inline-images/stylegan2-ada_1024.jpg)
-*StyleGAN2-ada Generations*
+_StyleGAN2-ada Generations_
 
 The state-of-the-art model for ["Training Generative Adversarial Networks with Limited Data [arxiv.org]"](https://arxiv.org/pdf/2006.06676v2.pdf) is [StyleGAN2-ada [github.com]](https://github.com/NVlabs/stylegan2-ada-pytorch) by Tero Karras et al. presented at NeurIPS Conference in 2020. The model trained quickly and captured complex coloration and textures. Unfortunately, it provided very little variation of form. In the image above, you can see there is a consistent diagonal from the upper right to the lower left.
 
 I reviewed the curated example images provided by the developers of the StyleGAN2-ada model. There was only one dataset that was not aligned to facial landmarks, the BreCaHAD model. It also had a limited variation of form where the same diagonal from upper right to lower left appears:
 
 ![Results from StyleGAN2-ada BreCaHAD](../../sites/default/files/inline-images/brecahad.jpg)
-*StyleGAN2-ada BreCaHAD Generations*
+_StyleGAN2-ada BreCaHAD Generations_
 
 Justin Pinkney had a [twitter post](https://twitter.com/Buntworthy/status/1353822215712759808/photo/1) discussing this issue on a StyleGAN2 model. He found that the generated flowers for his model all had "two blobs at the top and a smaller one between them". His solution is to [modify the noise tensor [twitter.com]](https://twitter.com/Buntworthy/status/1353822201858957312) in addition to the z latents.
 
@@ -48,7 +48,7 @@ This definitely helped the form, but I still believed the StyleGAN2-ada model wa
 ## Final Model - StyleGAN2
 
 ![Results from StyleGAN2](../../sites/default/files/inline-images/stylegan2-3497_1024.jpg)
-*StyleGAN2 Generations*
+_StyleGAN2 Generations_
 
 I was very pleased with the variation of color, texture, and form in the [StyleGAN2 [github.com]](https://github.com/NVlabs/stylegan2) model by Tero Karras et al. trained from scratch.
 

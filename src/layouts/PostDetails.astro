@@ -112,11 +112,11 @@ const nextPost =
 
     <BackToTopButton />
 
-    <div
-      class="flex flex-col items-center justify-between gap-6 sm:flex-row sm:items-start sm:gap-8"
-    >
+    <div class="flex flex-col items-center justify-between gap-6 sm:flex-row sm:items-start sm:gap-8">
       <ul class="self-start">
-        {tags.map(tag => <Tag tag={slugifyStr(tag)} tagName={tag} />)}
+        {tags.map(tag => (
+          <Tag tag={slugifyStr(tag)} tagName={tag} />
+        ))}
       </ul>
 
       <ShareLinks />
@@ -126,34 +126,30 @@ const nextPost =
 
     <!-- Previous/Next Post Buttons -->
     <div data-pagefind-ignore class="grid grid-cols-1 gap-6 sm:grid-cols-2">
-      {
-        prevPost && (
-          <a
-            href={`/posts/${prevPost.slug}`}
-            class="flex w-full gap-1 hover:opacity-75"
-          >
-            <IconChevronLeft class="inline-block flex-none" />
-            <div>
-              <span>Previous Post</span>
-              <div class="text-sm text-accent/85">{prevPost.title}</div>
-            </div>
-          </a>
-        )
-      }
-      {
-        nextPost && (
-          <a
-            href={`/posts/${nextPost.slug}`}
-            class="flex w-full justify-end gap-1 text-right hover:opacity-75 sm:col-start-2"
-          >
-            <div>
-              <span>Next Post</span>
-              <div class="text-sm text-accent/85">{nextPost.title}</div>
-            </div>
-            <IconChevronRight class="inline-block flex-none" />
-          </a>
-        )
-      }
+      {prevPost && (
+        <a
+          href={`/posts/${prevPost.slug}`}
+          class="flex w-full gap-1 hover:opacity-75"
+        >
+          <IconChevronLeft class="inline-block flex-none" />
+          <div>
+            <span>Previous Post</span>
+            <div class="text-sm text-accent/85">{prevPost.title}</div>
+          </div>
+        </a>
+      )}
+      {nextPost && (
+        <a
+          href={`/posts/${nextPost.slug}`}
+          class="flex w-full justify-end gap-1 text-right hover:opacity-75 sm:col-start-2"
+        >
+          <div>
+            <span>Next Post</span>
+            <div class="text-sm text-accent/85">{nextPost.title}</div>
+          </div>
+          <IconChevronRight class="inline-block flex-none" />
+        </a>
+      )}
     </div>
   </main>
   <Footer />
