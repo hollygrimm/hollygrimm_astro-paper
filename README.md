@@ -4,8 +4,17 @@ Personal website built with Astro. Uses the Astro Paper theme.
 
 ## Install
 
+Requires Node >= 22.12 (Astro 7) and pnpm.
+
 ```
 pnpm install
+```
+
+If the build fails with odd module errors (e.g. a missing named export), reinstall from scratch; stale packages left in `node_modules` can shadow the ones pnpm resolves:
+
+```
+rm -rf node_modules
+pnpm install --frozen-lockfile
 ```
 
 ## Run Local Dev Server
@@ -26,9 +35,15 @@ pnpm run preview
 ## Copy Dist to Server
 
 ```bash
-cd dist
-scp -r * <USERNAME>@<SERVER>:/home/hollygrimm.com
+# dry run
+rsync -avz --delete --dry-run dist/ <USERNAME>@<SERVER>:/home/hollygrimm.com/
+# then for real
+rsync -avz --delete dist/ <USERNAME>@<SERVER>:/home/hollygrimm.com/
 ```
+
+- Run from the repo root after `pnpm run build`.
+- Keep the trailing slash on `dist/` so its contents (not the folder) are copied.
+- `--delete` removes server files that aren't in `dist/`. This clears out old content-hashed assets (`_astro/`, `pagefind/`) from previous builds, but also anything added to the web root by hand. Check the dry run for deletions, and protect such paths with e.g. `--exclude '.well-known/'`.
 
 ---
 
