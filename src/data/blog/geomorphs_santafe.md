@@ -58,4 +58,4 @@ For the live part of the evening I am running a small corner-pin mapper I wrote 
 
 ## Credits
 
-Imagery: [Planet Labs PBC](https://www.planet.com), PlanetScope, 17 February 2021, used with permission for the original project. Model: StyleGAN2 (Karras et al.), trained 2021. Latent walk: built on Hans Brouwer's [maua-stylegan2](https://github.com/JCBrouwer/maua-stylegan2). Sound model (2021): SampleRNN on wind, ocean and hydrothermal recordings. Light in Mind is organized by SciArt Santa Fe and aweStruct / Brett Phares; the workshop by Morgan.
+Imagery: [Planet Labs PBC](https://www.planet.com), PlanetScope, 17 February 2021, used with permission for the original project. Model: StyleGAN2 (Karras et al.), trained 2021. Latent walk: built on Hans Brouwer's [maua-stylegan2](https://github.com/JCBrouwer/maua-stylegan2). Sound model (2021): SampleRNN on wind, ocean and hydrothermal recordings. Light in Mind is organized by SciArt Santa Fe, aweStruct / Brett Phares, and Morgan Bernard, who also leads the workshop.
