@@ -83,6 +83,8 @@ Here is a sample of what was generated:
 
 I'm still working with Planet on how best to show the work in their space. Stay tuned!
 
+_Update, September 2026:_ The piece finally goes on a wall, reworked around satellite imagery of Santa Fe for Light in Mind. See [GeoMorphs: Santa Fe](/posts/geomorphs_santafe/).
+
 ## Acknowledgements
 
 I would like to thank Orestis Herodotou, Dr. Tanya Harrison, Andrew Zolli, Joe Kington, Rob Simmon, Ash Hoover, Claire Bentley, Julie Kuschke, Sara Safavi, Işıl Demir, and Dr. Ariel Zajdband at Planet for their support on this project.
