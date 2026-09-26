@@ -2,6 +2,7 @@
 layout: ../layouts/PaintingsLayout.astro
 title: "Paintings"
 ---
+
 Power Surge
 ![Power Surge](../sites/default/files/styles/large/public/2018-10/painting_2017-09-26_powersurge_2048.jpg)
 Magma Plume

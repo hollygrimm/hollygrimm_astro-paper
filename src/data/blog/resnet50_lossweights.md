@@ -10,9 +10,9 @@ tags:
   - LossWeights
   - ArtCompositionAttributesNetwork
 ogImage: "../../sites/default/files/inline-images/validation_loss_repetition_1_.7_.5_0.png"
-description:
-  Training Art Composition Attributes
+description: Training Art Composition Attributes
 ---
+
 ## Training Art Composition Attributes
 
 I’m training on eight art attributes, six of the attributes have numerical values between 1 and 10. The other two attributes are primary color composed of 13 classes and color harmony which has 6 classes. Mean squared error is used on the numerical values to calculate loss, and categorical cross-entropy on the categorical attributes.

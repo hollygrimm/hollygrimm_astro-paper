@@ -3,11 +3,13 @@
 Personal website built with Astro. Uses the Astro Paper theme.
 
 ## Install
+
 ```
 pnpm install
 ```
 
 ## Run Local Dev Server
+
 ```
 pnpm run dev
 pnpm run format:check
@@ -15,18 +17,21 @@ pnpm run lint
 ```
 
 ## Build Production Site
+
 ```
 pnpm run build
 pnpm run preview
 ```
 
 ## Copy Dist to Server
+
 ```bash
 cd dist
 scp -r * <USERNAME>@<SERVER>:/home/hollygrimm.com
 ```
 
------
+---
+
 Original README
 
 # AstroPaper 📄

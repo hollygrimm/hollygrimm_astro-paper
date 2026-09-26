@@ -2,6 +2,7 @@
 layout: ../layouts/PleinAirLayout.astro
 title: "Plein Air"
 ---
+
 Plein Air, Loretto, May 13 '16
 ![Plein Air, Loretto](../sites/default/files/styles/large/public/2017-06/pa_2016-05-13_loretto_morning_1024.jpg)
 
