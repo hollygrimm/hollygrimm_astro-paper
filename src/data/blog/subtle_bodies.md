@@ -7,6 +7,7 @@ draft: false
 tags:
   - GAN
   - GenerativeArt
+  - SubtleBodies
 ogImage: "../../sites/default/files/styles/large/public/2019-09/untitled_green_2014-01-25_305001.jpg"
 description: Translation from landscape paintings to figurative watercolors using U-GAT-IT
 ---
