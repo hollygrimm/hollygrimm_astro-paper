@@ -25,7 +25,7 @@
     "remark-collapse": "^0.1.2",
     "remark-toc": "^9.0.0",
     "satori": "^0.33.5",
-    "sharp": "^0.35.4",
+    "sharp": "^0.35.5",
     "tailwindcss": "^4.3.3"
   },
   "devDependencies": {
@@ -33,7 +33,7 @@
     "@pagefind/default-ui": "^1.5.2",
     "@tailwindcss/typography": "^0.5.20",
     "@types/lodash.kebabcase": "^4.1.9",
-    "@typescript-eslint/parser": "^8.70.1",
+    "@typescript-eslint/parser": "^8.71.0",
     "eslint": "^10.11.0",
     "eslint-plugin-astro": "^3.2.1",
     "globals": "^17.12.0",
@@ -42,6 +42,6 @@
     "prettier-plugin-astro": "^1.1.0",
     "prettier-plugin-tailwindcss": "^0.8.1",
     "typescript": "~6.0.3",
-    "typescript-eslint": "^8.70.1"
+    "typescript-eslint": "^8.71.0"
   }
 }
